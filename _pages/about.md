@@ -18,7 +18,7 @@ Postdoc Research Associate
   <br /> 
  [Origin Wireless AI](https://www.originwirelessai.com/)
 
-Research Projects
+:briefcase: Research Projects
 ======
 <b> 1.  Device-free Wireless Monitoring System </b>
  * Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
