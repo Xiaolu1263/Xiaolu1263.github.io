@@ -1,8 +1,9 @@
 ---
 title: "Device-free Wireless Monitoring System"
 collection: Projects
-permalink: /Porjects/Wireless-Mornitoring
+permalink: /Projects/Wireless-Mornitoring
 date: 2020-9-30
+author_profile: true
 ---
 
 Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
