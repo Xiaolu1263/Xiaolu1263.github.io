@@ -10,22 +10,20 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <b> 1.  Device-free Wireless Monitoring System </b>
   * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). For more Press Coverage: [WiFi Now](https://wifinowglobal.com/news-and-blog/roundup-centurylinks-wi-fi-6-with-intel-origins-mesh-sensing-xfinitys-wifi-ready/), [The Very Best Gadgets at CES 2020](https://gizmodo.com/the-very-best-gadgets-we-saw-at-ces-2020-1840949011), [PR Newswire](https://www.prnewswire.com/news-releases/origin-wireless-brings-smart-home-and-indoor-tracking-solution-to-mesh-routers-300576721.html?tc=eml_cleartime), [9TO5Mac](https://9to5mac.com/2019/10/08/linksys-aware-motion-sensing-mesh-wifi/), [Engadget](https://www.engadget.com/2019-10-08-linksys-motion-sensing-velop.html). 	
 
-
 <b> 2. Wireless Vital Signs Detection System </b>
-  * We developed an accurate Breathing Rate Detection System using CSI extracted from only 1 pair of commercial WiFi devices.
-  * The research was then developed as a Sleep Monitoring System and commercialized as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx),
-
+  * We developed an accurate Breathing Rate Detection System using CSI extracted from only 1 pair of commercial WiFi devices. The research was then developed as a Sleep Monitoring System and commercialized as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car </b>
-  * Designed the system by using WiFi-FTM (IEEE 802.11mc, 2016). By enabling driver's arrival time sensing, the car
-is more smart in multiple-service management than the existing driver's presence sensing only system.
-  * Implemented the system and ported it into Linux OS for real-world validation. Experiments in varieties of parking lots and garages show that it can robustly achieve 92.5% accuracy with less than 1s error
-  * 
+  * We designed the system by using WiFi Fine Time Measurements (WiFi-FTM, IEEE 802.11mc, 2016). By enabling driver's arrival time sensing, the car
+is more smart in multiple-service management than the existing driver's presence sensing only system. The system has been implemented and ported it into Linux OS for real-world validation in different parking lots and garages in Maryland, which indicates 92.5% accuracy with less than 1s error
 
-## Tracking and Localization
-<b> 4. mmWave-Based Vital Signs Monitoring </b>
-  * Worked on the design and development of a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects
-  * The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for Qualcomm. It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
+## mmWave Localization and Sensing Tracking and Localization
+<b> 4. mmWave and 5G Massive MIMO for Localization and Tracking </b>
+  * To tackle the unavoidable multipath distortions in our daily life, we developed and implemented a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4). Mainly, we treat all the LoS and NLoS signal componetns as a whole by exploring the statistical property of the electromagnetic (EM) waves and thus improve the scalability in different environments.
+
+  * 
+<b> 5. mmWave-Based Vital Signs Monitoring </b>
+  * To extract the weak Vital Sign signals, we designed and developedof a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects. The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for Qualcomm. It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
 
 <b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b>
   * Developed and implemented the system on the base of Time Reversal and Massive MIMO techniques, which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
