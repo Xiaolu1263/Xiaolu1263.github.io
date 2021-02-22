@@ -23,14 +23,13 @@ Postdoc Research Associate
 <b> 1.  Device-free Wireless Monitoring System:</b> <br />
  :small_blue_diamond: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
 <b> 2. Wireless Vital Signs Detection System: </b> <br />
-:small_blue_diamond: Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).  <br /> 
+:small_blue_diamond: Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).  <br /> 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car: </b>  <br />
 :small_blue_diamond: Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
 <b> 4. mmWave-Based Vital Signs Monitoring: </b> <br />
 :small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.  <br /> 
 <b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b> <br />
-  :small_blue_diamond: which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
-  * Derived and validated the theoretical performance of the system which can achieve up to centimeter-accuracy while enjoys low overhead by leveraging the existing 5G Massive MIMO base stations and multipath signals
+  :small_blue_diamond: Decimeter-accuracy regardless of multipath distortions in dynamic environments
 
 <b> 6. Time Reversal Based Localization and Tracking </b>
   * Built the signal model on the base of Time Reversal theory which turns the detrimental multipath signal from enemy to friend for target localization and tracking.
