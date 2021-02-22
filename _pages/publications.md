@@ -7,5 +7,5 @@ author_profile: true
 <br>
 <b>[Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.gitub.com/publications/MassiveMIMO)</b> 
 <br>
-Jiankai Sun, <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
+<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.
