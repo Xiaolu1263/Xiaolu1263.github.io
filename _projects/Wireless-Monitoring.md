@@ -1,7 +1,7 @@
 ---
 title: "Rroject 1. Device-free Wireless-Monitoring"
 collection: projects
-permalink: /projects/Wireless-Monitoring
+permalink: /projects/
 date: 2021-02-01
 ---
 
