@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2021-MassiveMIMOPaper
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-02-01
+<b>Xiaolu Zeng</b> Feng Zhang, Beibei Wang and K. J. Ray Liu \ IEEE Internet of Things Journal (2021)
 venue: 'IEEE Internet of Things Journal'
 paperurl: '[PDF]http://Xiaolu1263.github.io/files/MassiveMIMO.pdf'
 citation: '<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray Liu \ IEEE Internet of Things Journal (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
