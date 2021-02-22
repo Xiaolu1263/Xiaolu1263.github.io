@@ -17,6 +17,21 @@ Postdoc Research Associate
  Principal Data Scientist
   <br /> 
  [Origin Wireless AI](https://www.originwirelessai.com/)
+ 
+ 
+ :man_office_worker: Research Interests
+======
+ 
+ 
+:checkered_flag: Research Interests
+======
+
+:newspaper: Selected Publications and Patents
+======
+I have published 10 papers including 4 journal papers and 6 conference papers, and 6 patents. <br /> 
+All the journal papers are of  <b> JCR: Q1 </b> including [IEEE IEEE Internet of Things Journal (IF: 9.936)](https://ieee-iotj.org/), [IEEE Transactions on Aerospace and Electronic Systems (IF: 3.672)](https://ieee-aess.org/publications/transactions-aes) and [IEEE Access (IF:3.745)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)... <br />
+My conference are of [IEEE ICASSP](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_signalprocessing) (top conference in singal processing society with h5-index 86), [IEEE Radar Conference](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_radarpositioningnavigation) (top conference in Radar society with h5-index 34)... <br />
+I have authored 6 patents including US, Europe and China patents...
 
 :briefcase: Research Projects
 ======
@@ -35,12 +50,7 @@ Postdoc Research Associate
 <b> 7. RF-based Indoor Tracking System </b> <br />
   :small_blue_diamond: Calibration-free and Decimeter-accuracy Indoor Tracking Systems <br />
 
-:newspaper: Selected Publications and Patents
-======
-I have published 10 papers including 4 journal papers and 6 conference papers, and 6 patents. <br /> 
-All the journal papers are of  <b> JCR: Q1 </b> including [IEEE IEEE Internet of Things Journal (IF: 9.936)](https://ieee-iotj.org/), [IEEE Transactions on Aerospace and Electronic Systems (IF: 3.672)](https://ieee-aess.org/publications/transactions-aes) and [IEEE Access (IF:3.745)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)... <br />
-My conference are of [IEEE ICASSP](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_signalprocessing) (top conference in singal processing society with h5-index 86), [IEEE Radar Conference](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_radarpositioningnavigation) (top conference in Radar society with h5-index 34)... <br />
-I have authored 6 patents including US, Europe and China patents...
+
  
 For more info
 ------
