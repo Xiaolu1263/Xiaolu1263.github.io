@@ -20,24 +20,20 @@ Postdoc Research Associate
 
 :briefcase: Research Projects
 ======
-<b> 1.  Device-free Wireless Monitoring System:</b> <br />
- :small_blue_diamond: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
-<b> 2. Wireless Vital Signs Detection System: </b> <br />
-:small_blue_diamond: Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).  <br /> 
-<b> 3. Wireless Driver Arrival Sensing for Smart Car: </b>  <br />
-:small_blue_diamond: Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
-<b> 4. mmWave-Based Vital Signs Monitoring: </b> <br />
-:small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.  <br /> 
-<b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b> <br />
-  :small_blue_diamond: Decimeter-accuracy regardless of multipath distortions in dynamic environments
-
-<b> 6. Time Reversal Based Localization and Tracking </b>
-  * Built the signal model on the base of Time Reversal theory which turns the detrimental multipath signal from enemy to friend for target localization and tracking.
-  * Utilized DNN to learn the feature of background perturbations and thus make the system work robustly in both static and dynamic environments regardless of multipath distortions
-
-<b> 7. RF-based Indoor Tracking System </b>
-  * Worked on the development and validation of two calibration-free Indoor Tracking Systems with decimeter-accuracy by exploring the statistical properties of the received signals.
-  * The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell
+<b> 1.  Device-free Wireless Monitoring System </b> <br />
+  :small_blue_diamond: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx)  <br /> 
+<b> 2. Wireless Vital Signs Detection System </b> <br />
+  :small_blue_diamond: Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx)  <br /> 
+<b> 3. Wireless Driver Arrival Sensing for Smart Car </b>  <br />
+  :small_blue_diamond: Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016)   <br /> 
+<b> 4. mmWave-Based Vital Signs Monitoring </b> <br />
+  :small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables <br /> 
+<b> 5. 5G Massive MIMO for Localization and Tracking </b> <br />
+  :small_blue_diamond: Decimeter-accuracy regardless of multipath distortions in dynamic environments <br />
+<b> 6. Time Reversal Based Localization and Tracking </b> <br />
+  :small_blue_diamond: Time Reversal turns multipath distortions to friend for target localization and tracking. <br />
+<b> 7. RF-based Indoor Tracking System </b> <br />
+  :small_blue_diamond: Calibration-free and Decimeter-accuracy Indoor Tracking Systems <br />
 
 
 Site-wide configuration
