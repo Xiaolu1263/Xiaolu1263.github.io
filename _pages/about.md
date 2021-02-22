@@ -10,7 +10,7 @@ redirect_from:
 
 Xiaolu Zeng | 曾小路
 ======
-Postdoc Research Associate at 
+:newspaper: Postdoc Research Associate
 <br /> 
  [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/)
  <br /> 
@@ -18,14 +18,19 @@ Postdoc Research Associate at
   <br /> 
  [Origin Wireless AI](https://www.originwirelessai.com/)
 
-Getting started
+Research Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. <b> Device-free Wireless Monitoring System </b>
+Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
+large through-the-wall coverage by using Channel Station Information (CSI) related techniques.
+The research has been commercialized by Origin Wireless AI Inc. and won the CES 2020 Innovation Award. In
+partnership with Belkin, it has been deployed over 150 countries worldwide as LinkSysAware
+
+3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+4. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+5. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+6. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+7. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
