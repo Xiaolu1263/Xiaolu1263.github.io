@@ -10,14 +10,17 @@ author_profile: true
 
 
 <b> 2. Wireless Vital Signs Detection System </b>
-  * Development of the Breathing Rate Detection System using CSI extracted from commercial WiFi devices.
-  * The research was then developed as a Sleep Monitoring System and commercialized as Origin Health by Origin Wireless AI Inc., which won the CES 2021 Best of Innovation Award.
+  * We developed an accurate Breathing Rate Detection System using CSI extracted from only 1 pair of commercial WiFi devices.
+  * The research was then developed as a Sleep Monitoring System and commercialized as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx),
+
 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car </b>
   * Designed the system by using WiFi-FTM (IEEE 802.11mc, 2016). By enabling driver's arrival time sensing, the car
 is more smart in multiple-service management than the existing driver's presence sensing only system.
   * Implemented the system and ported it into Linux OS for real-world validation. Experiments in varieties of parking lots and garages show that it can robustly achieve 92.5% accuracy with less than 1s error
+  * 
 
+## Tracking and Localization
 <b> 4. mmWave-Based Vital Signs Monitoring </b>
   * Worked on the design and development of a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects
   * The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for Qualcomm. It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
