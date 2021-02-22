@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 <b> 1.  Device-free Wireless Monitoring System </b>
-  * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/).
+  * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). For more Press Coverage: [WiFi Now](https://wifinowglobal.com/news-and-blog/roundup-centurylinks-wi-fi-6-with-intel-origins-mesh-sensing-xfinitys-wifi-ready/), [https://gizmodo.com/the-very-best-gadgets-we-saw-at-ces-2020-1840949011](The Very Best Gadgets at CES 2020), [https://www.prnewswire.com/news-releases/origin-wireless-brings-smart-home-and-indoor-tracking-solution-to-mesh-routers-300576721.html?tc=eml_cleartime](PR Newswire), [https://9to5mac.com/2019/10/08/linksys-aware-motion-sensing-mesh-wifi/](9TO5Mac), [https://www.engadget.com/2019-10-08-linksys-motion-sensing-velop.html](Engadget). 	
+
 
 <b> 2. Wireless Vital Signs Detection System </b>
   * Development of the Breathing Rate Detection System using CSI extracted from commercial WiFi devices.
