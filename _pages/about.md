@@ -22,13 +22,14 @@ Postdoc Research Associate
 ======
 <b> 1.  Device-free Wireless Monitoring System:</b> <br />
  :small_blue_diamond: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
-<b> 2. Wireless Vital Signs Detection System: </b> Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).   <br /> 
-<b> 3. Wireless Driver Arrival Sensing for Smart Car: </b> Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
-<b> 4. mmWave-Based Vital Signs Monitoring: </b> Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.   <br /> 
-  * We designed and implemented a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the for multiple objects. The research has been implemented by using off-the-shelf [TI mmWave Radar](https://www.ti.com/tool/IWR1843BOOST) and part of it has been invited to demo for [Qualcomm](https://www.qualcomm.com/).
-
-<b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b>
-  * Developed and implemented the system on the base of Time Reversal and Massive MIMO techniques, which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
+<b> 2. Wireless Vital Signs Detection System: </b> <br />
+:small_blue_diamond: Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).  <br /> 
+<b> 3. Wireless Driver Arrival Sensing for Smart Car: </b>  <br />
+:small_blue_diamond: Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
+<b> 4. mmWave-Based Vital Signs Monitoring: </b> <br />
+:small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.  <br /> 
+<b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b> <br />
+  :small_blue_diamond: which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
   * Derived and validated the theoretical performance of the system which can achieve up to centimeter-accuracy while enjoys low overhead by leveraging the existing 5G Massive MIMO base stations and multipath signals
 
 <b> 6. Time Reversal Based Localization and Tracking </b>
