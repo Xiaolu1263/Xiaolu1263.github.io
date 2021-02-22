@@ -37,6 +37,7 @@ Postdoc Research Associate
 
 :newspaper: Selected Publications and Patents
 ======
+I have published 10 papers including 4 journal papers and 6 conference papers. All the journal papers are of  <b> JCR: Q1 </b> including [IEEE IEEE Internet of Things Journal (IF: 9.936)](https://ieee-iotj.org/), [IEEE Transactions on Aerospace and Electronic Systems (IF: 3.672)](https://ieee-aess.org/publications/transactions-aes) and [IEEE Access (IF:3.745)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 
 
 
