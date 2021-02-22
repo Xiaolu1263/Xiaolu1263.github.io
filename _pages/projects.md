@@ -4,7 +4,7 @@ title: ":computer: Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b> together with our ***AI Techniques, Signal Process methods, radar techniques, 5G communication skills...*** to make your life easier and convenient, <b> by your control of course </b>. Wireless AI for wireless sensing and localization using ambient radio signals
+We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b> together with our ***AI Techniques, Signal Process Methods, Radar Techniques, 5G Communication Skills, Massive MIMO Knowledge, mmWave Studies...*** to make your life easier and convenient, <b> by your control of course </b>. Know more about [Wireless AI for wireless sensing and localization using ambient radio signals](https://www.originwirelessai.com/)...
 
 ## AI Techniques for Wireless Sensing
 <b> 1.  Device-free Wireless Monitoring System </b>
