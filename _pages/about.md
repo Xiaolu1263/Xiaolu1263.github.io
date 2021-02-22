@@ -16,12 +16,12 @@ Postdoc Research Associate
  <br /> 
  Principal Data Scientist
   <br /> 
- [Origin Wireless AI](https://www.originwirelessai.com/)
+ [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
  
  
- :man_office_worker: Research Interests
+ :man_office_worker: Biography
 ======
- 
+Xiaolu Zeng is currently a Postdoc Research Associate in the [Department of Electrical and Computer Engineering](https://ece.umd.edu/), [University of Maryland, College Park, ](https://www.umd.edu/), advised by [Prof. K. J. Ray Liu](http://www.cspl.umd.edu/kjrliu/). He is also the Principal Data Scientist at [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
  
 :checkered_flag: Research Interests
 ======
