@@ -20,15 +20,11 @@ Postdoc Research Associate
 
 :briefcase: Research Projects
 ======
-<b> 1.  Device-free Wireless Monitoring System:</b> A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).
-
-<b> 2. Wireless Vital Signs Detection System: </b> Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
-
-<b> 3. Wireless Driver Arrival Sensing for Smart Car </b>
-  * We developed a driver's arrival time sensing system (using WiFi-FTM, IEEE 802.11mc, 2016) which makes the car more smart in multiple-service management than the existing driver's presence sensing only system.
-
-<b> 4. mmWave-Based Vital Signs Monitoring </b>
-  * We designed and implemented a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. The research has been implemented by using off-the-shelf [TI mmWave Radar](https://www.ti.com/tool/IWR1843BOOST) and part of it has been invited to demo for [Qualcomm](https://www.qualcomm.com/).
+<b> 1.  Device-free Wireless Monitoring System:</b> A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
+<b> 2. Wireless Vital Signs Detection System: </b> Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).   <br /> 
+<b> 3. Wireless Driver Arrival Sensing for Smart Car: </b> Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
+<b> 4. mmWave-Based Vital Signs Monitoring: </b> Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.   <br /> 
+  * We designed and implemented a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the for multiple objects. The research has been implemented by using off-the-shelf [TI mmWave Radar](https://www.ti.com/tool/IWR1843BOOST) and part of it has been invited to demo for [Qualcomm](https://www.qualcomm.com/).
 
 <b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b>
   * Developed and implemented the system on the base of Time Reversal and Massive MIMO techniques, which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
