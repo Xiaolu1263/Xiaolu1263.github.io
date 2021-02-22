@@ -15,6 +15,7 @@ Postdoc Research Associate at
  [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/)
  <br /> 
  Principal Data Scientist
+  <br /> 
  [Origin Wireless AI](https://www.originwirelessai.com/)
 
 Getting started
