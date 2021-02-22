@@ -20,8 +20,8 @@ Postdoc Research Associate
 
 :briefcase: Research Projects
 ======
-<b> 1.  Device-free Wireless Monitoring System:</b> <br /> 
-    &nbsp &nbsp &nbsp -A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
+<b> 1.  Device-free Wireless Monitoring System:</b> <br />
+ :arrow_right: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).  <br /> 
 <b> 2. Wireless Vital Signs Detection System: </b> Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).   <br /> 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car: </b> Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016).   <br /> 
 <b> 4. mmWave-Based Vital Signs Monitoring: </b> Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables.   <br /> 
