@@ -20,11 +20,9 @@ Postdoc Research Associate
 
 :briefcase: Research Projects
 ======
-<b> 1.  Device-free Wireless Monitoring System </b> 
- * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).
+<b> 1.  Device-free Wireless Monitoring System:</b> A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx).
 
-<b> 2. Wireless Vital Signs Detection System </b>
-  * Our research Sleep Monitoring System has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) as Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
+<b> 2. Wireless Vital Signs Detection System: </b> Origin Health for Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car </b>
   * We developed a driver's arrival time sensing system (using WiFi-FTM, IEEE 802.11mc, 2016) which makes the car more smart in multiple-service management than the existing driver's presence sensing only system.
