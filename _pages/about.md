@@ -10,7 +10,7 @@ redirect_from:
 
 Xiaolu Zeng | 曾小路
 ======
-:newspaper: Postdoc Research Associate
+Postdoc Research Associate
 <br /> 
  [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/)
  <br /> 
@@ -20,36 +20,36 @@ Xiaolu Zeng | 曾小路
 
 Research Projects
 ======
-1. <b> Device-free Wireless Monitoring System </b>
-    * Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
+<b> 1.  Device-free Wireless Monitoring System </b>
+ * Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
 large through-the-wall coverage by using Channel Station Information (CSI) related techniques.
-    * The research has been commercialized by Origin Wireless AI Inc. and won the CES 2020 Innovation Award. In
+ * The research has been commercialized by Origin Wireless AI Inc. and won the CES 2020 Innovation Award. In
 partnership with Belkin, it has been deployed over 150 countries worldwide as LinkSysAware
 
-2. Wireless Vital Signs Detection System
-    * Development of the Breathing Rate Detection System using CSI extracted from commercial WiFi devices.
-    * The research was then developed as a Sleep Monitoring System and commercialized as Origin Health by Origin Wireless AI Inc., which won the CES 2021 Best of Innovation Award.
+<b> 2. Wireless Vital Signs Detection System </b>
+  * Development of the Breathing Rate Detection System using CSI extracted from commercial WiFi devices.
+  * The research was then developed as a Sleep Monitoring System and commercialized as Origin Health by Origin Wireless AI Inc., which won the CES 2021 Best of Innovation Award.
 
-3. Wireless Driver Arrival Sensing for Smart Car
-    * Designed the system by using WiFi-FTM (IEEE 802.11mc, 2016). By enabling driver's arrival time sensing, the car
+<b> 3. Wireless Driver Arrival Sensing for Smart Car </b>
+  * Designed the system by using WiFi-FTM (IEEE 802.11mc, 2016). By enabling driver's arrival time sensing, the car
 is more smart in multiple-service management than the existing driver's presence sensing only system.
-    * Implemented the system and ported it into Linux OS for real-world validation. Experiments in varieties of parking lots and garages show that it can robustly achieve 92.5% accuracy with less than 1s error
+  * Implemented the system and ported it into Linux OS for real-world validation. Experiments in varieties of parking lots and garages show that it can robustly achieve 92.5% accuracy with less than 1s error
 
-4. mmWave-Based Vital Signs Monitoring
-    * Worked on the design and development of a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects
-    * The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for Qualcomm. It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
+<b> 4. mmWave-Based Vital Signs Monitoring </b>
+  * Worked on the design and development of a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects
+  * The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for Qualcomm. It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
 
-5. mmWave and 5G Massive MIMO for Localization and Tracking
-    * Developed and implemented the system on the base of Time Reversal and Massive MIMO techniques, which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
-    * Derived and validated the theoretical performance of the system which can achieve up to centimeter-accuracy while enjoys low overhead by leveraging the existing 5G Massive MIMO base stations and multipath signals
+<b> 5. mmWave and 5G Massive MIMO for Localization and Tracking </b>
+  * Developed and implemented the system on the base of Time Reversal and Massive MIMO techniques, which over- comes the unavoidable multipath distortions and thus improving the scalability in different environments
+  * Derived and validated the theoretical performance of the system which can achieve up to centimeter-accuracy while enjoys low overhead by leveraging the existing 5G Massive MIMO base stations and multipath signals
 
-6. Time Reversal Based Localization and Tracking
-    * Built the signal model on the base of Time Reversal theory which turns the detrimental multipath signal from enemy to friend for target localization and tracking.
-    * Utilized DNN to learn the feature of background perturbations and thus make the system work robustly in both static and dynamic environments regardless of multipath distortions
+<b> 6. Time Reversal Based Localization and Tracking </b>
+  * Built the signal model on the base of Time Reversal theory which turns the detrimental multipath signal from enemy to friend for target localization and tracking.
+  * Utilized DNN to learn the feature of background perturbations and thus make the system work robustly in both static and dynamic environments regardless of multipath distortions
 
-7. RF-based Indoor Tracking System
-    * Worked on the development and validation of two calibration-free Indoor Tracking Systems with decimeter-accuracy by exploring the statistical properties of the received signals.
-    * The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell
+<b> 7. RF-based Indoor Tracking System </b>
+  * Worked on the development and validation of two calibration-free Indoor Tracking Systems with decimeter-accuracy by exploring the statistical properties of the received signals.
+  * The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell
 
 
 Site-wide configuration
