@@ -7,7 +7,7 @@ author_profile: true
 
 <b> 
 1.  Device-free Wireless Monitoring System </b>
- * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/).
+ * We created the first-of-its-kind device-free motion sensing system, which can detect the object motion with only 1 pair of WiFi devices. The system has been commercialized by [Origin Wireless AI Inc.] (https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award] (https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin] (https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware] (https://www.linksys.com/us/linksys-aware/).
 
 <b> 2. Wireless Vital Signs Detection System </b>
   * Development of the Breathing Rate Detection System using CSI extracted from commercial WiFi devices.
