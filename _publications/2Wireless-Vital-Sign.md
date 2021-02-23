@@ -6,7 +6,7 @@ permalink: /publications/2Wireless-Vital-Sign
 ---
 
 ## Abstract
-<b> 1.  Challenge: How can we bridge the Vital Sign (Breathing Rate) with the wireless signal? </b> <br>
+<b> 1. How can we bridge the Vital Sign (Breathing Rate) with the wireless signal? </b> <br>
   * Human breathing will cause the movement of chest (or abdomen/belly) ranging from [4-12mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) with frequency of 6-30 breaths per minute (BPM). Moreover, the chest movement will induce corresponding [CSI](https://xiaolu1263.github.io/publications/Wireless-Monitor) changes, which can then be measured by WiFi Links. As a result, we can extract the chest movement (a.k.a. Breathing Rate) from the measured CSI. 
 
 <b> 2. Can CSI really measure chest movement since it is very weak? </b> <br>
