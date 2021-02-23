@@ -18,12 +18,10 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 
 ## mmWave Systems
 <b> 4. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
-  * We designed and developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... 
+  * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... 
 
 <b> 5. 5G Massive MIMO for Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)
-  * To tackle the unavoidable multipath distortions in our daily life, we developed and implemented a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4). Mainly, we treat all the LoS and NLoS signal componetns as a whole by exploring the statistical property of the electromagnetic (EM) waves and thus improve the scalability in different environments.
-
-
+  * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improve the scalability in different environments.
 
 ## Time Reversal (TR) for Tracking and Localization
 <b> 6. Time Reversal Based Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
