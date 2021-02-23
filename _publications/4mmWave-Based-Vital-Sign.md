@@ -1,7 +1,7 @@
 ---
 title: "mmWave-Based Vital Signs Monitoring"
 collection: publications
-permalink: /publications/3mmWave-Vital-Sign
+permalink: /publications/4mmWave-Based-Vital-Sign
 
 ---
 
