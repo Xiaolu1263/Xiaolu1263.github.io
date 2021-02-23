@@ -7,7 +7,7 @@ permalink: /publications/10SMVMD
 
 ## Abstract
 <b> 1. What is Mode Decomposition ? </b> <br>
-  * <b>Variational Mode Decomposition (VMD)</b> has been being a powerful tool for concurrently decomposing a signal into a discrete number of sub-signals (modes). However, the
+  * <b> Variational Mode Decomposition (VMD) </b> has been being a powerful tool for concurrently decomposing a signal into a discrete number of sub-signals (modes). However, the
 existing VMD method and its multivariate extension, a.k.a. multivariate VMD (MVMD), require the prior knowledge of the number of modes for elegant performance. Besides, the joint
 optimization over all the modes calls for heavy computational complexity, thus limiting their practical applications.
 
