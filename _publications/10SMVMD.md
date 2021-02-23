@@ -1,18 +1,20 @@
 ---
-title: "Successive Mulchannle Variant Mode Decomposition "
+title: "Successive Multichannle Variational Mode Decomposition"
 collection: publications
 permalink: /publications/10SMVMD
 
 ---
 
 ## Abstract
-<b> 1. What challenges are there for High-accuracy Localization and Tracking? </b> <br>
-  * One of the biggest problem is multipath distortions which is a ill-posted problem for many years. Another problem is the resolution/compacity ability which means how many clients you can serve simultaneously
+<b> 1. Problems ? </b> <br>
+  * Variational Mode Decomposition (VMD) has been being a powerful tool for concurrently decomposing a signal into a discrete number of sub-signals (modes). However, the
+existing VMD method and its multivariate extension, a.k.a. multivariate VMD (MVMD), require the prior knowledge of the number of modes for elegant performance. Besides, the joint
+optimization over all the modes calls for heavy computational complexity, thus limiting their practical applications.
 
 <b> 2. Can CSI really measure chest movement since it is very weak? </b> <br>
-  * Yes the CSI changes caused by breathing rate is very weak. However, we have multiple subcarriers for both [2.4GHz & 5GHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels) with whatever bandwidth ([usually, 20MHz, 40MHz, 80MHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels)). As a result, we design a subcarrier selection method and futher using a [maximum-ratio combining (MRC)](https://en.wikipedia.org/wiki/Maximal-ratio_combining#:~:text=In%20telecommunications%2C%20maximum%2Dratio%20combining,noise%20level%20in%20that%20channel.) to boost the vital signs. 
+  * We developed a Successive Multichannel Variational Mode Decomposition (SMVMD) method to successively extract the signal modes without any prior information about the mode number.
+  * In a successive manner, we simplify the original high-dimensional optimization model into multiple low-dimensional optimization problems, which significantly reduces the computation complexity.
 
-<b> 3. Have you tested your system using practical measurements? </b>
-  *  The research was then developed as a Sleep Monitoring System and commercialized as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx). <br>
+<b> The work is underview and will come soon... </b>
 
-<b> Key words: Vital Signs, CSI, Sleep Monitoring.</b>
+<b> Key words:Mode Decomposition, Successive Decomposition, Multichannel, Joint Optimization.</b>
