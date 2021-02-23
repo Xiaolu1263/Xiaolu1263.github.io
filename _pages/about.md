@@ -55,4 +55,4 @@ I have authored 6 patents including US, Europe and China patents...
  
 For more info
 ------
-More information, please contact xlzeng09@umd.edu.
+More information, please contact [Email](xlzeng09@umd.edu).
