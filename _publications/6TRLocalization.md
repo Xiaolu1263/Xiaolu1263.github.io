@@ -14,6 +14,6 @@ permalink: /publications/6TRLocalization
   * As stated, TR takes adavatage of the environment to constructively add all the radio signal components (both LoS and multipath) in a specific location at a specific timestamp (**focusing effect**). We design the transimitting signal as the TR version of the Forward-Echo. As a result, the transmitting signal will focus on the target and thus improving the SNR greatly. In this sense, TR works like a waveguide which navigates the transimitting power to illuminate on the target. As the **focusing effect** is constructed by the massive signal components, the more the multipath component is, the better the **focusing effect** will be.
 
 <b> 3. How much impovement by using Time Revresal? </b>
-  * It is hard to quantilize the SNR improvement. However, when we applied TR for DOA estimations with **rich multipath distortions**, the TR based algorithm can achieve the same performace as the traditional ones with lower SNR up to 5dB, which implicitly indicates the superiority of TR in dealing multipath.  <br>
+  * It is hard to quantilize the SNR improvement since it is also related to the bandwidth, multipath power profile...([TR focusing](https://xiaolu1263.github.io/files/1WaveformingTR.pdf)). However, when we applied TR for DOA estimations with **rich multipath distortions**, the TR based algorithm can achieve the same performace as the traditional ones with lower SNR up to 5dB, which implicitly indicates the superiority of TR in dealing multipath.  <br>
 
 <b> Key words: Vital Signs, CSI, Sleep Monitoring.</b>
