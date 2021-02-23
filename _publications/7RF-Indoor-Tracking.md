@@ -6,12 +6,12 @@ permalink: /publications/7RF-Indoor-Tracking
 ---
 
 ## Abstract
-<b> 1. What challenges are there for High-accuracy Localization and Tracking? </b> <br>
-  * One of the biggest problem is multipath distortions which is a ill-posted problem for many years. 
-  * Another problem is the resolution/compacity ability which means how many clients you can serve simultaneously.
+<b> 1. What challenges are there for Indoor Tracking? </b> <br>
+  * Unavoidable multipath distortions makes the typical DOA/AOA/TOF methods failed.
+  * The popular [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) cannot work well also due the lack of LoS singals to the GPS satellites
 
 <b> 2. How do you solve the Multipath issue? </b> <br>
-  * Different from most of the localization methods which need to distinguish LoS and NLoS signal components, we treat LoS and NLoS signal as a whole and explore the statistical property of the received signal. We prove that the **strength of the autocorrelation function (ACFS)** of the received signal in massive MIMO systems exhibits like a stable Sinclike focusing beam around the receiver in spatial domain. By using ACFS, we bypass the problem that the ***LOS and NLOS signals are hard to be distinguished*** in severe NLOS environments.
+  * We treat LoS and NLoS signal as a whole and explore the statistical property of the received signal by analog to the [TR principle](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization). We prove that the TR is mathematically equivalent to the **the autocorrelation function of the CSI (ACF)**. the received signal in massive MIMO systems exhibits like a stable Sinclike focusing beam around the receiver in spatial domain. By using ACFS, we bypass the problem that the ***LOS and NLOS signals are hard to be distinguished*** in severe NLOS environments.
 
 <b> 3. What is advantages of using ACFS? </b>
   *  Variation of the imping angle/delay of each specific signal component (regardless of LOS and NLOS) caused by the channel changes (e.g., target movement may cause the changes of wireless channel between the BSs and target) does not impact much about our algorithm since the statistical property of the ACFS is stable. 
