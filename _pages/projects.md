@@ -24,7 +24,7 @@ is more smart in multiple-service management than the existing driver's presence
 <b> 5. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
   * To extract the weak Vital Sign signals, we designed and developedof a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects. The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/). It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
 
-## Time Reversal (TR) Based Tracking and Localization
+## Time Reversal (TR) for Tracking and Localization
 <b> 6. Time Reversal Based Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
   * By using the Time Reversal theory, the so called detrimental multipath signal has been turned from enemy to friend for target localization and tracking. We then developed a decimeter-level accuracy localization and tracking algorithm which can work robustly regardless of the environments.
 
