@@ -19,6 +19,7 @@ permalink: /publications/5MassiveMIMOLocalization
   * The system can support massive concurrent targets/clients without affecting the channel capacity and preserve privacy since a target/client only listen to the BSs without transmitting any signal.
   * Owing to the benifit of using ACFS, the system robustly achives < 0.2m localization error regardless of the environments and thus making the it scalable to various of applications such as navigations.
 <br>
+For more details. please refer to our paper （[PDF](https://xiaolu1263.github.io/files/MassiveMIMO.pdf)）
 
 <b> Key words: Massive MIMO, Time Reversal, Multipath, Localization and Tracking.</b>
 
