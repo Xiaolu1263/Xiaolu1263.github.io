@@ -21,14 +21,14 @@ is more smart in multiple-service management than the existing driver's presence
 <b> 4. mmWave and 5G Massive MIMO for Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)
   * To tackle the unavoidable multipath distortions in our daily life, we developed and implemented a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4). Mainly, we treat all the LoS and NLoS signal componetns as a whole by exploring the statistical property of the electromagnetic (EM) waves and thus improve the scalability in different environments.
 
-<b> 5. mmWave-Based Vital Signs Monitoring [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)</b>
+<b> 5. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
   * To extract the weak Vital Sign signals, we designed and developedof a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability for multiple objects. The research has been implemented by using off-the-shelf mmWave Radar and part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/). It is being commercialized by Origin Wireless AI Inc. for Non-contact Vital Sign Monitoring.
 
 ## Time Reversal (TR) Based Tracking and Localization
-<b> 6. Time Reversal Based Localization and Tracking </b>
+<b> 6. Time Reversal Based Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
   * By using the Time Reversal theory, the so called detrimental multipath signal has been turned from enemy to friend for target localization and tracking. We then developed a decimeter-level accuracy localization and tracking algorithm which can work robustly regardless of the environments.
 
-<b> 7. RF-based Indoor Tracking System </b>
+<b> 7. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
   * Leveraging the naturally existing multipath signals in rich-scattering indoor scenarios, we developed an active and a passive Indoor Tracking Systems with decimeter-accuracy 
   * The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell
 
