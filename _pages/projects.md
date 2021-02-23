@@ -8,7 +8,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 
 ## AI Techniques for Wireless Sensing
 <b> 1.  Device-free Wireless Monitoring System </b> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor)
-  * We created the first-of-its-kind device-free motion sensing system with only 1 pair of WiFi devices. It was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/).
+  * We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/).
 
 <b> 2. Wireless Vital Signs Detection System </b> [see more](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign)
   * We developed an accurate Sleep Monitoring System and commercialized it as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
