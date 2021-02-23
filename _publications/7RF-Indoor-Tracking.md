@@ -11,7 +11,7 @@ permalink: /publications/7RF-Indoor-Tracking
   * The popular [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) cannot work well also due the lack of LoS singals to the GPS satellites
 
 <b> 2. How do you solve the Multipath issue? </b> <br>
-  * We treat LoS and NLoS signal as a whole and explore the statistical property of the received signal by analog to the [TR principle](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization). We prove that the TR is mathematically equivalent to the **the autocorrelation function of the CSI (ACF)**. the received signal in massive MIMO systems exhibits like a stable Sinclike focusing beam around the receiver in spatial domain. By using ACFS, we bypass the problem that the ***LOS and NLOS signals are hard to be distinguished*** in severe NLOS environments.
+  * We treat LoS and NLoS signal as a whole and explore the statistical property of the received signal by analog to the [TR principle](https://xiaolu1263.github.io/publications/6TRLocalization). We proved that the TR is mathematically equivalent to the **the autocorrelation function of the CSI (ACF)**. Thus, by considering the [Raleigh Fading](https://en.wikipedia.org/wiki/Rayleigh_fading), we further proved that the ACF exhibits like a **Focusing Ball** around the receiver in spatial domain. This **Focusing Ball** is then used to develop the Tracking System.
 
 <b> 3. What is advantages of using ACFS? </b>
   *  Variation of the imping angle/delay of each specific signal component (regardless of LOS and NLOS) caused by the channel changes (e.g., target movement may cause the changes of wireless channel between the BSs and target) does not impact much about our algorithm since the statistical property of the ACFS is stable. 
