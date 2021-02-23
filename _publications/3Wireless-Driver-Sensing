@@ -6,8 +6,8 @@ permalink: /publications/3Wireless-Driver-Sensing
 ---
 
 ## Abstract
-<b> 1. Challenge: What do you mean by Driver-Sensing? </b> <br>
-  * Human breathing will cause the movement of chest (or abdomen/belly) ranging from [4-12mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) with frequency of 6-30 breaths per minute (BPM). Moreover, the chest movement will induce corresponding [CSI](https://xiaolu1263.github.io/publications/Wireless-Monitor) changes, which can then be measured by WiFi Links. As a result, we can extract the chest movement (a.k.a. Breathing Rate) from the measured CSI. 
+<b> 1. What is Driver-Sensing? Why do we need it?</b> <br>
+  * Driver-Sensing means that your car knows your arrival time rather just you presence/proximity as most of the existing work does.
 
 <b> 2. Can CSI really measure chest movement since it is very weak? </b> <br>
   * Yes the CSI changes caused by breathing rate is very weak. However, we have multiple subcarriers for both [2.4GHz & 5GHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels) with whatever bandwidth ([usually, 20MHz, 40MHz, 80MHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels)). As a result, we design a subcarrier selection method and futher using a [maximum-ratio combining (MRC)](https://en.wikipedia.org/wiki/Maximal-ratio_combining#:~:text=In%20telecommunications%2C%20maximum%2Dratio%20combining,noise%20level%20in%20that%20channel.) to boost the vital signs. 
