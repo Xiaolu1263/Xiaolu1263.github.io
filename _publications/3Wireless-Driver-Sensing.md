@@ -12,7 +12,7 @@ permalink: /publications/3Wireless-Driver-Sensing
 
 <b> 2. How does it work? Is WiFi-FTM available now? </b> <br>
   * We designed the system by using WiFi Fine Time Measurements ([WiFi-FTM](https://people.csail.mit.edu/bkph/ftmrtt_intr), IEEE 802.11mc, 2016) which can provide the distances between 2 WiFi cards with [Meter-accuracy](https://www.gpsworld.com/how-to-achieve-1-meter-accuracy-in-android/). <br>
-  * Google Released [WifiRttScan APP](https://play.google.com/store/apps/details?id=com.google.android.apps.location.rtt.wifirttscan&hl=en_US&gl=US) in 2019. More and more [Phones and APs](https://developer.android.com/guide/topics/connectivity/wifi-rtt) can support [IEEE 802.11mc](https://en.wikipedia.org/wiki/IEEE_802.11mc) and [WiFi-FTM](https://people.csail.mit.edu/bkph/ftmrtt_intr)...
+  * Google released [WifiRttScan APP](https://play.google.com/store/apps/details?id=com.google.android.apps.location.rtt.wifirttscan&hl=en_US&gl=US) in 2019. More and more [Phones and APs](https://developer.android.com/guide/topics/connectivity/wifi-rtt) can support [IEEE 802.11mc](https://en.wikipedia.org/wiki/IEEE_802.11mc) and [WiFi-FTM](https://people.csail.mit.edu/bkph/ftmrtt_intr)...
 
 <b> 3. Have you tested your system using practical measurements? </b>
   *  The system has been implemented and ported it into Linux OS for real-world validation in different parking lots and garages in Maryland, which indicates 92.5% accuracy with less than 1s error [PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf)<br>
