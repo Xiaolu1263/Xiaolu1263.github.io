@@ -6,8 +6,8 @@ permalink: /publications/Wireless-Monitor
 ---
 
 ## Abstract
-1. Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
+1. The movement of a object embedded in the environment will casue corresponding changes in the Wireless Channel Station Information (CSI). As a result, intuitively, we can extract the object motion from the measured CSI from the modeled the  the development and validation of a highly accurate and calibration-free wireless motion detector with
 large through-the-wall coverage by using Channel Station Information (CSI) related techniques.
 2. The research has been commercialized by Origin Wireless AI Inc. and won the CES 2020 Innovation Award. In
 partnership with Belkin, it has been deployed over 150 countries worldwide as LinkSysAware (see more 1, 2, 3,...) <br />
-<b> Core Techniques: </b>
+<b> Core Techniques: CSI, </b>
