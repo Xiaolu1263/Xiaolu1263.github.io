@@ -12,9 +12,10 @@ permalink: /publications/4mmWave-Based-Vital-Sign
 
 <b> 2. How does it work?  </b> <br>
   * We designed the system by using mmWave since human breathing will cause the movement of chest (or abdomen/belly) ranging from [4-12mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) with frequency of 6-30 breaths per minute (BPM) while Heart Rate is motivated by your Heart Pumping with a range of [0.2-0.5mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) in a frequency of 50-120 beats per minute (BPM). <br>
-  *  As a result, such a movement is comparable with the wave length of the [mmWave Radios](https://en.wikipedia.org/wiki/Extremely_high_frequency) with a wavelength from ten to one millimeters. As a result we can extract the movement casued by Vital Signs from [CSI measurement](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign), which is widely available from commercial WiFi devices now. 
+  *  Intuitively, such a movement is comparable with the wave length of the [mmWave Radios](https://en.wikipedia.org/wiki/Extremely_high_frequency) with a wavelength from ten to one millimeters. As a result, we can extract the movement casued by Vital Signs from [CSI measurement](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign), which is widely available from commercial WiFi devices now. In addition, by leveraging the directionality of mmWave, we can monitor multiple people at the same time with [Beamforming] (https://en.wikipedia.org/wiki/Beamforming)techniques.
 
 <b> 3. Have you tested your system using practical measurements? </b>
-  *  The system has been implemented and ported it into Linux OS for real-world validation in different parking lots and garages in Maryland, which indicates 92.5% accuracy with less than 1s error [PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf)<br>
+  *  The research has been implemented by using off-the-shelf [TI 77GHz mmWave Radar](https://www.ti.com/tool/IWR1843BOOST) and [Qualcomm 60G mmWave Radar](https://www.qualcomm.com/products/qca9500) and part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/). It is being commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) for Non-contact Vital Sign Monitoring.<br>
+For for details. please refer to our paper （[PDF](https://xiaolu1263.github.io/files/mmHRV.pdf)）
 
-<b> Key words: Driver's Arrival Time Sensing, WiFi-FTM, IEEE 802.11mc.</b>
+<b> Key words: mmWave, Vital Sign Monitoring, Multiple, Beamforming.</b>
