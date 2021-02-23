@@ -6,13 +6,13 @@ permalink: /publications/2Wireless-Vital-Sign
 ---
 
 ## Abstract
-<b> 1.  Challenge: How can we bridge the Vital Sign (Breathing) with the wireless signal? </b> <br>
+<b> 1.  Challenge: How can we bridge the Vital Sign (Breathing Rate) with the wireless signal? </b> <br>
   * Human breathing will cause the movement of chest (or abdomen/belly) ranging from [4-12mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) with frequency of 6-30 breaths per minute (BPM). Moreover, the chest movement will induce corresponding [CSI](https://xiaolu1263.github.io/publications/Wireless-Monitor) changes, which can then be measured by WiFi Links. As a result, we can extract the chest movement (a.k.a. Breathing Rate) from the measured CSI.
 
-<b> 2.  How do get rid of multipath distortions since it is alomost everywhere? </b> <br>
-  * We do not have to. By using [Time Reversal](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4) techniques, we can leverage the multipath components by exploring the statistical property of the received electromagnetic (EM) signals. In other words, we treat LoS and NLoS signals as a whole. Thus, multipath is not a problem at all.
+<b> 2. Can CSI really measures chest movement since it is very weak? </b> <br>
+  * Yes the CSI changes caused by breathing rate is very weak. However, we have multiple subcarriers for both [2.4GHz & 5GHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels) with whatever bandwidth ([usually, 20MHz, 40MHz, 80MHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels)). As a result, we design a subcarrier selection method and futher using a [maximum-ratio combining (MRC)](https://en.wikipedia.org/wiki/Maximal-ratio_combining#:~:text=In%20telecommunications%2C%20maximum%2Dratio%20combining,noise%20level%20in%20that%20channel.) to boost the vital signs.
 
-<b> 3.  Does the theoretical model matches with the practical environments? </b> <br>
-  * The research has been commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). For more Press Coverage: [WiFi Now](https://wifinowglobal.com/news-and-blog/roundup-centurylinks-wi-fi-6-with-intel-origins-mesh-sensing-xfinitys-wifi-ready/), [The Very Best Gadgets at CES 2020](https://gizmodo.com/the-very-best-gadgets-we-saw-at-ces-2020-1840949011), [PR Newswire](https://www.prnewswire.com/news-releases/origin-wireless-brings-smart-home-and-indoor-tracking-solution-to-mesh-routers-300576721.html?tc=eml_cleartime), [9TO5Mac](https://9to5mac.com/2019/10/08/linksys-aware-motion-sensing-mesh-wifi/), [Engadget](https://www.engadget.com/2019-10-08-linksys-motion-sensing-velop.html). <br>
+<b> 3. Have you tested your system using practical measurements? </b> <br>
+  *  The research was then developed as a Sleep Monitoring System and commercialized as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx). <br>
 
-<b> Key words: Motion Sensing, CSI, Multipath, Time Reversal.</b>
+<b> Key words: Vital Signs, CSI, Sleep Monitoring.</b>
