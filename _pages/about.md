@@ -44,7 +44,7 @@ I have authored 6 patents including US, Europe and China patents...
   :small_blue_diamond: Your car knows when you are going to arrive (WiFi-FTM, IEEE 802.11mc, 2016)   <br /> 
 <b> 4. mmWave-Based Vital Signs Monitoring </b> [Details](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)<br />
   :small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables <br /> 
-<b> 5. 5G Massive MIMO for Localization and Tracking </b> <br />
+<b> 5. 5G Massive MIMO for Localization and Tracking [Details](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)</b> <br /> 
   :small_blue_diamond: Decimeter-accuracy regardless of multipath distortions in dynamic environments <br />
 <b> 6. Time Reversal Based Localization and Tracking </b> <br />
   :small_blue_diamond: Time Reversal turns multipath distortions to friend for target localization and tracking. <br />
