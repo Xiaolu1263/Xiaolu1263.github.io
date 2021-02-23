@@ -8,7 +8,7 @@ permalink: /publications/7RF-Indoor-Tracking
 ## Abstract
 <b> 1. What challenges are there for Indoor Tracking? </b> <br>
   * Unavoidable multipath distortions makes the typical DOA/AOA/TOF methods failed.
-  * The popular [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) cannot work well also due the lack of LoS singals to the GPS satellites
+  * The popular [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) cannot work well also due the lack of LoS singals to the GPS satellites.
 
 <b> 2. How do you solve the Multipath issue? </b> <br>
   * We treat LoS and NLoS signal as a whole and explore the statistical property of the received signal by analog to the [TR principle](https://xiaolu1263.github.io/publications/6TRLocalization). We proved that the TR is mathematically equivalent to the **the autocorrelation function of the CSI (ACF)**. Thus, by considering the [Raleigh Fading](https://en.wikipedia.org/wiki/Rayleigh_fading), we further proved that the ACF exhibits like a **Focusing Ball** around the receiver in spatial domain. This **Focusing Ball** is then used to develop the Tracking System.
