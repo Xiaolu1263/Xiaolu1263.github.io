@@ -2,7 +2,6 @@
 title: "1. Device-free Wireless Monitoring System"
 collection: publications
 permalink: /publications/Wireless-Monitor
-date: 2021-02-01
 ---
 
 ## Abstract
