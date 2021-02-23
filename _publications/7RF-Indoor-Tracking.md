@@ -20,4 +20,4 @@ permalink: /publications/7RF-Indoor-Tracking
   * Owing to the benifit of using ACFS, the system robustly achives < 0.2m localization error regardless of the environments and thus making the it scalable to various of applications such as navigations.
 <br>
 
-<b> Key words: Vital Signs, CSI, Sleep Monitoring.</b>
+<b> Key words: Massive MIMO, Time Reversal, Multipath, Localization and Tracking.</b>
