@@ -2,8 +2,6 @@
 title: "1. Device-free Wireless Monitoring System"
 collection: publications
 permalink: /publications/Wireless-Monitor
----
-
 ## Abstract
 1. Worked on the development and validation of a highly accurate and calibration-free wireless motion detector with
 large through-the-wall coverage by using Channel Station Information (CSI) related techniques.
