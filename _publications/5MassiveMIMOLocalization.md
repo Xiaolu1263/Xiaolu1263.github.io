@@ -7,8 +7,8 @@ permalink: /publications/5MassiveMIMOLocalization
 
 ## Abstract
 <b> 1. What challenges are there for High-accuracy Localization and Tracking? </b> <br>
-  * One of the biggest problem is multipath distortions which is a ill-posted problem for many years. 
-  * Another problem is the resolution/compacity ability which means how many clients you can serve simultaneously.
+  * Multipath distortion has been a ill-posted problem for many years. 
+  * Resolution/compacity ability which means how many clients you can serve simultaneously.
 
 <b> 2. How do you solve the Multipath issue? </b> <br>
   * Different from most of the localization methods which need to distinguish LoS and NLoS signal components, we treat LoS and NLoS signal as a whole and explore the statistical property of the received signal. We prove that the **strength of the autocorrelation function (ACFS)** of the received signal in massive MIMO systems exhibits like a stable Sinclike focusing beam around the receiver in spatial domain. By using ACFS, we bypass the problem that the ***LOS and NLOS signals are hard to be distinguished*** in severe NLOS environments.
