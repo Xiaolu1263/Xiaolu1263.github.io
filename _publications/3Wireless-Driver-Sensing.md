@@ -6,7 +6,7 @@ permalink: /publications/3Wireless-Driver-Sensing
 ---
 
 ## Abstract
-<b> 1. What is Driver-Sensing? Why do we need it?</b> <br>
+<b> 1. What is Driver Arrival Sensing? Why do we need it?</b> <br>
   * Driver-Sensing means that your car knows your arrival time rather just you presence/proximity as most of the existing work does. <br>
   * By enabling driver's arrival time sensing, the car is more smart in multiple-service management. For example, your AC should be turned on earlier since it takes a rather long time to warm/cool your car to a comfortable temperature. However, you may want to open your car door only when you arrives. The control system on the car can be more flexible to arrange the requrested services while reduce the energy consumption if it is able to sense your exact arrival time.
 
