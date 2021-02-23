@@ -1,7 +1,7 @@
 ---
 title: "Device-free Wireless Monitoring System"
 collection: publications
-permalink: /publications/Wireless-Monitor
+permalink: /publications/1Wireless-Monitor
 
 ---
 
