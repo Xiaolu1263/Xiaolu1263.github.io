@@ -36,7 +36,7 @@ I have authored 6 patents including US, Europe and China patents...
 
 :briefcase: Research Projects
 ======
-<b> 1.  Device-free Wireless Monitoring System </b> <br />
+<b> 1.  Device-free Wireless Monitoring System </b> [Details](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br />
   :small_blue_diamond: A device-free motion sensing system, which won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx)  <br /> 
 <b> 2. Wireless Vital Signs Detection System </b> <br />
   :small_blue_diamond: Remote Patient Monitoring, which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx)  <br /> 
