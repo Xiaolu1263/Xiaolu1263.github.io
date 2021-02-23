@@ -16,4 +16,6 @@ permalink: /publications/6TRLocalization
 <b> 3. How much impovement by using Time Revresal? </b>
   * It is hard to quantilize the SNR improvement since it is also related to the bandwidth, multipath power profile...([TR focusing](https://xiaolu1263.github.io/files/1WaveformingTR.pdf)). However, when we applied TR for DOA estimations with **rich multipath distortions**, the TR based algorithm can achieve the same performace as the traditional ones with lower SNR up to 5dB, which implicitly indicates the superiority of TR in dealing multipath.  <br>
 
-<b> Key words: Vital Signs, CSI, Sleep Monitoring.</b>
+For more details. please refer to our paper ([PDF](https://xiaolu1263.github.io/files/TAESpdf)）
+
+<b> Key words: Time Reversal, Multipath, Focusing Effect, DOA, Match Filter.</b>
