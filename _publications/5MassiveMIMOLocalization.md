@@ -6,8 +6,8 @@ permalink: /publications/5MassiveMIMOLocalization
 ---
 
 ## Abstract
-<b> 1. How can we bridge the Vital Sign (Breathing Rate) with the wireless signal? </b> <br>
-  * Human breathing will cause the movement of chest (or abdomen/belly) ranging from [4-12mm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4035586/) ([PDF](https://xiaolu1263.github.io/files/2014-ChestMovment.pdf)) with frequency of 6-30 breaths per minute (BPM). Moreover, the chest movement will induce corresponding [CSI](https://xiaolu1263.github.io/publications/Wireless-Monitor) changes, which can then be measured by WiFi Links. As a result, we can extract the chest movement (a.k.a. Breathing Rate) from the measured CSI. 
+<b> 1. What challenges are there for High-accuracy Localization and Tracking? </b> <br>
+  * One of the biggest problem is multipath distortions which is a ill-posted problem for many years. Another problem is the resolution/compacity ability which means how many clients you can serve simultaneously
 
 <b> 2. Can CSI really measure chest movement since it is very weak? </b> <br>
   * Yes the CSI changes caused by breathing rate is very weak. However, we have multiple subcarriers for both [2.4GHz & 5GHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels) with whatever bandwidth ([usually, 20MHz, 40MHz, 80MHz](https://en.wikipedia.org/wiki/List_of_WLAN_channels)). As a result, we design a subcarrier selection method and futher using a [maximum-ratio combining (MRC)](https://en.wikipedia.org/wiki/Maximal-ratio_combining#:~:text=In%20telecommunications%2C%20maximum%2Dratio%20combining,noise%20level%20in%20that%20channel.) to boost the vital signs. 
