@@ -1,5 +1,5 @@
 ---
-title: "Wireless Vital Signs Detection System"
+title: "Wireless Driver Arrival Sensing for Smart Car"
 collection: publications
 permalink: /publications/3Wireless-Driver-Sensing
 
