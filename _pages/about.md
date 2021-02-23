@@ -25,6 +25,7 @@ Postdoc Research Associate
  
 :checkered_flag: Research Interests
 ======
+My research interests include but not limited to <b> Target Detection, Tracking and Localization, AI Techniques for Wireless sensing, 5G millimeter wave (mmWave) communication and applications, Massive MIMO Systems, Intelligent Recognition and Classification, Advanced Driver Assistance Systems (ADAS)...</b>
 
 :newspaper: Selected Publications and Patents
 ======
