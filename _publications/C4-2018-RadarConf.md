@@ -5,7 +5,7 @@ permalink: /publications/C4-2018-RadarConf
 date: 2018-06-11
 venue: '2018 IEEE Radar Conference (RadarConf18)'
 ---
-<b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang., <i>RadarConf. Apr. 2018, Oklahoma City, OK, <i>. <br>
+<b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang., <i>RadarConf., Oklahoma City, OK, Apr. 2018<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf)
 
 ## Abstract <br>
