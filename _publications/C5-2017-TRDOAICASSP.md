@@ -3,7 +3,7 @@ title: "Radio Frequency Based Heart Rate Variability Monitoring"
 collection: publications
 permalink: /publications/C4-2017-TRDOAICASSP
 date: 2017-06-19
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2017)'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
 <b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang, <i>ICASSP, New Orleans, LA, Mar. 2017<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/2017ICASSP.pdf)
