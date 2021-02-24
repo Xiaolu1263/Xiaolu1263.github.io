@@ -3,7 +3,7 @@ title: "Radio Frequency Based Direction Sensing Using Massive MIMO"
 collection: publications
 permalink: /publications/J3-2020-DirectionSensorPaper
 date: 2020-02-12
-venue: 'IEEE Access, 2020'
+venue: 'IEEE Access'
 ---
  <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/Access.pdf)
