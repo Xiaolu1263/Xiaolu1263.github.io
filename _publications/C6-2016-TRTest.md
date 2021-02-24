@@ -14,3 +14,5 @@ which is called Off-Line Test. An APAR system is generally composed of thousands
 complex operations, a T/R module automatic test system is introduced in this paper, including the design of the hardware platform and software system, especially the data processing
 and the timing control design. The system is applied successfully at present and shortens the test time to 0.5 hour from the traditional 20 hours for a Ku-band T/R module with
 16 channels. It is characterized by high test efficiency, accurate measurement results and easy operation, hence solving the difficulties of T/R module test effectively.
+
+**Key Words: LabView, Automatic Test*
