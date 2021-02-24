@@ -3,7 +3,7 @@ title: "mmHRV: Contactless Heart Rate Variability Monitoring using Millimeter-Wa
 collection: publications
 permalink: /publications/J2-2021-mmHRVPaper
 date: 2021-02-01
-venue: 'IEEE Internet of Things Journal, 2021'
+venue: 'IEEE Internet of Things Journal'
 ---
  Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/ViMo.pdf)
