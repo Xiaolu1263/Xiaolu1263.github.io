@@ -7,8 +7,8 @@ author_profile: true
 We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b> together with our ***AI Techniques, Signal Process Methods, Radar Techniques, 5G Communication Skills, Massive MIMO Knowledge, mmWave Studies...*** to make your life easier and convenient, <b> by your control of course </b>. Know more about [Wireless AI for wireless sensing and localization using ambient radio signals](https://www.originwirelessai.com/)...
 
 ## AI Techniques for Wireless Sensing <br/>
-<b> 1. Device-free Wireless Monitoring System </b> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br/>
-  * We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). <br/>
+1. <b> Device-free Wireless Monitoring System </b> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br/>
+    * We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). <br/>
 
 
 <b> 2. Wireless Vital Signs Detection System </b> [see more](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign)
