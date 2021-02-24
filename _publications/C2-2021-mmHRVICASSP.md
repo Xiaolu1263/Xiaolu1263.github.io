@@ -5,7 +5,7 @@ permalink: /publications/C2-2021-mmHRVICASSP
 date: 2021-02-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)'
 ---
- <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>ICASSP 2021, Toronto Canada.<i>. <br>
+Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>ICASSP 2021, Toronto Canada.<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/ICASSP2021HRV.pdf)
 
 ## Abstract <br>
