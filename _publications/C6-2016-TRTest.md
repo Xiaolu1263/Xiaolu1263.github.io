@@ -5,7 +5,7 @@ permalink: /publications/C6-2016-TRTest
 date: 2018-06-11
 venue: '2016 CIE International Conference on Radar (RADAR)'
 ---
-<b>Xiaolu Zeng</b>, Baixiao Chen, Yinan Zhao, Minglei Yang, <i>2016 CIE International Conference on Radar (RADAR), Guangzhou, China, Oct. 2016 <i>. <br>
+<b>Xiaolu Zeng</b>, Baixiao Chen, Yinan Zhao, Minglei Yang, <i>CIE RADAR, Guangzhou, China, Oct. 2016 <i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/TRTest.pdf)
 
 ## Abstract <br>
