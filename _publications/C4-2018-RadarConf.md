@@ -15,3 +15,5 @@ of the multipath lies in the same beamwidth of the direct path signal, which mak
 refocus at the original target position, which not only mitigates the multipath distortion but also equally increases the signal-to noise ratio (SNR) of the TR receiving signal. Next, we analyzes
 the independence between the noise subspace and the sampling frequency bin in our TR wideband signal model. A novel direction of arrival (DOA) estimation method is then investigated in
 frequency domain. Compared with conventional methods, its superiority in DOA estimation accuracy for low angle targets is validated by numerical simulations.
+
+**Key Words: Time Reversal, DOA Estimations, Frequency Domain, Multipath**
