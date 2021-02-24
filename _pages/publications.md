@@ -53,7 +53,7 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 
 <b>C6. [Design and implementation of a T/R module automatic test system,"](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
 <br>
-<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
+<b>Xiaolu Zeng</b>, Baixiao Chen, Yinan Zhao, Minglei Yang.
 <i> 2016 CIE International Conference on Radar (RADAR),</i> Guangzhou, Oct. <b>2016</b>.  <br>
 
 
