@@ -31,7 +31,7 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> Toronto Canada, Jun. <b> 2021</b>. (Accepted, to appear)  <br>
 
-<b>C2. [Radio Frequency Based Heart Rate Variability Monitoring,"](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
+<b>C2. [Radio Frequency Based Heart Rate Variability Monitoring](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
 <br>
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> Toronto Canada, Jun. <b> 2021</b>. (Accepted, to appear)  <br>
