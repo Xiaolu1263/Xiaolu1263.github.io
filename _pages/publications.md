@@ -58,7 +58,10 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 
 
 ## Patents
-<b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
-<br>
-<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.  <br>
+<b>P1. "Method, apparatus, and system for outdoor target tracking,"</b> (US Patent No.: 16790627) <br>
+<b>P2. "Method, Apparatus, and System for Wireless Gait Recognition," </b> (Europe Patent No.:3695783) <br>
+<b>P3. "Time Reversal Based DOA Estimation," </b>(China Patent No.: ZL201610702654.8 [P]) <br>
+<b>P4. "DOA Estimation by Using Nested Minimum-redundancy Arrays," </b> (China Patent No.: ZL201510725142.9 (US Patent No.: 16790627) <br>
+<b>P5. "Sub-nested Minimum-redundancy Arrays for DOA estimation," </b> (China Patent No.: ZL201610236372.3 [P])<br>
+<b>P6. "Design and implementation of a T/R module automatic test system," </b> (China Patent No.: ZL201510566320.8 [P]) <br>
+
