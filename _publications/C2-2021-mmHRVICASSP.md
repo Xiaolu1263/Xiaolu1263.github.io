@@ -3,7 +3,7 @@ title: "Radio Frequency Based Heart Rate Variability Monitoring"
 collection: publications
 permalink: /publications/C2-2021-mmHRVICASSP
 date: 2021-02-01
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>ICASSP, Toronto Canada, Jun. 2021<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/ICASSP2021HRV.pdf)
