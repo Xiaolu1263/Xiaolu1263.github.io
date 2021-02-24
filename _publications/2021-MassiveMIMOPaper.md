@@ -1,12 +1,11 @@
 ---
-title: "J1. Massive MIMO for High-Accuracy Target Localization and Tracking"
+title: " Massive MIMO for High-Accuracy Target Localization and Tracking"
 collection: publications
 permalink: /publications/2021-MassiveMIMOPaper
 date: 2021-02-01
 venue: 'IEEE Internet of Things Journal, 2021'
- '<b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>.  <b>2021</b>.'
 ---
-
+ <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>.  <b>2021</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf)
 
 ## Abstract
