@@ -14,18 +14,18 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
   * We developed an accurate Sleep Monitoring System and commercialized it as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
 
 <b> 3. Wireless Driver Arrival Sensing for Smart Car </b> [see more](https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing)
-  * We designed a Driver's Arrival Time Sensing System, which makes the car more smart in multiple-service management than the existing driver's presence sensing only system. Real-world tests show 92.5% accuracy with less than 1s error.
+  * We designed a Driver's Arrival Time Sensing System, which makes the car more smart in multiple-service management than the existing driver's presence sensing only system. Real-world tests show 92.5% accuracy with less than 1s error. ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf))
 
 ## mmWave Systems
 <b> 4. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
-  * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... 
+  * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... ([PDF](https://xiaolu1263.github.io/files/ViMo.pdf)） 
 
 <b> 5. 5G Massive MIMO for Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)
-  * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improves the scalability greatly.
+  * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improves the scalability greatly. ([PDF](https://xiaolu1263.github.io/files/MassiveMIMO.pdf)）
 
 ## Time Reversal (TR) for Tracking and Localization
 <b> 6. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
-  * We developed an Time Reversal based localization methods which can guide the transmitting signal to focus on the target and thus improves the SNR up to 5dB and the localization accuracy.
+  * We developed an Time Reversal based localization methods which can guide the transmitting signal to focus on the target and thus improves the SNR up to 5dB and the localization accuracy. ([PDF](https://xiaolu1263.github.io/files/TAES.pdf)）
 
 <b> 7. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
   * We establish a link between the autocorrelation function (ACF) of the physical layer [**CSI**](https://xiaolu1263.github.io/publications/1Wireless-Monitor) and the speed of a moving object. We then developed an active and a passive Indoor Tracking Systems with decimeter-accuracy. The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell.
