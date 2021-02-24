@@ -13,3 +13,5 @@ In a low angle target parameter estimation scenario, the backscattered signals f
 in a low angle scenario. The TR method exploits target information contained in the return echoes due to multipath and adaptively adjusts TR probing waveforms to increase the
 signal-to-noise ratio (SNR). Furthermore, CSM is adopted to focus the energy of the multipath signal in a predefined subspace so as to exploit the full time-bandwidth product of the target source. We analyze the performance of the proposed new DOA algorithm. Numerical simulations demonstrate its superior performance compared with the conventional DOA
 estimators.
+
+**Key Words: Time Reversal, DOA Estimations, Multipath, High Accuracy*
