@@ -1,5 +1,5 @@
 ---
-title: "Spectrum Analysis of DOA Estimations"
+title: "Spectrum Analysis for DOA Estimations"
 collection: publications
 permalink: /publications/9SpectrumAnalysisDOA
 
