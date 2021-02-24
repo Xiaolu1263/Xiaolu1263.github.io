@@ -3,7 +3,7 @@ title: "DOA estimation for low angle targets using time reversal in frequency do
 collection: publications
 permalink: /publications/C4-2018-RadarConf
 date: 2018-06-11
-venue: '2018 IEEE Radar Conference (RadarConf18)'
+venue: '2018 IEEE Radar Conference (RadarConf)'
 ---
 <b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang., <i>RadarConf., Oklahoma City, OK, Apr. 2018<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf)
