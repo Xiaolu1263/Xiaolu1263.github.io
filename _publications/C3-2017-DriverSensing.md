@@ -5,7 +5,7 @@ permalink: /publications/C3-2017-DriverSensing
 date: 2020-12-31
 venue: '2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)'
 ---
-<b>Xiaolu Zeng</b>, Beibei Wang and K. J. Ray. Liu, <i>APSIPA ASC 2020, Auckland, New Zealand<i>. <br>
+<b>Xiaolu Zeng</b>, Beibei Wang and K. J. Ray. Liu, <i>APSIPA ASC, Auckland, New Zealand, Dec. 2020<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/DriverSensing.pdf)
 
 ## Abstract <br>
