@@ -1,7 +1,7 @@
 ---
 title: " Massive MIMO for High-Accuracy Target Localization and Tracking"
 collection: publications
-permalink: /publications/2021-MassiveMIMOPaper
+permalink: /publications/J1-2021-MassiveMIMOPaper
 date: 2021-02-01
 venue: 'IEEE Internet of Things Journal, 2021'
 ---
