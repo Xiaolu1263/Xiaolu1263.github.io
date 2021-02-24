@@ -3,9 +3,9 @@ title: "Estimation of Direction of Arrival by Time Reversal for Low-Angle Target
 collection: publications
 permalink: /publications/J4-2018-TAESPaper
 date: 2018-04-18
-venue: 'IEEE Transactions on Aerospace and Electronic Systems, 2018'
+venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 ---
-<b>Xiaolu Zeng</b>, Minglei Yang, Baixiao Chen and Yunawei Jin, <i>IEEE Transactions on Aerospace and Electronic Systems<i>.  <b>2018</b>. <br>
+<b>Xiaolu Zeng</b>, Minglei Yang, Baixiao Chen and Yunawei Jin, <i>IEEE Transactions on Aerospace and Electronic Systems<i>,  <b>2018</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/TAES.pdf)
 
 ## Abstract <br>
