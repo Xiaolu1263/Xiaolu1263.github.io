@@ -1,7 +1,7 @@
 ---
 title: "Radio Frequency Based Heart Rate Variability Monitoring"
 collection: publications
-permalink: /publications/C4-2017-TRDOAICASSP
+permalink: /publications/C5-2017-TRDOAICASSP
 date: 2017-06-19
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
