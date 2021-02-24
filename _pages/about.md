@@ -46,9 +46,9 @@ I have authored 6 patents including US, Europe and China patents...
   :small_blue_diamond: Know your  breathing rate, heart rate and heart rate viability (HRV) with no wearables <br /> 
 <b> 5. 5G Massive MIMO for Localization and Tracking </b> [Details](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization) <br /> 
   :small_blue_diamond: Decimeter-accuracy regardless of multipath distortions in dynamic environments <br />
-<b> 6. Time Reversal Based Localization and Tracking </b> [Details](https://xiaolu1263.github.io/publications/6TRLocalization) <br /> <br />
+<b> 6. Time Reversal Based Localization and Tracking </b> [Details](https://xiaolu1263.github.io/publications/6TRLocalization) <br /> 
   :small_blue_diamond: Time Reversal turns multipath distortions to friend for target localization and tracking. <br />
-<b> 7. RF-based Indoor Tracking System </b> [Details](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking) <br /> <br />
+<b> 7. RF-based Indoor Tracking System </b> [Details](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking) <br /> 
   :small_blue_diamond: Calibration-free and Decimeter-accuracy Indoor Tracking Systems <br />
 
 
