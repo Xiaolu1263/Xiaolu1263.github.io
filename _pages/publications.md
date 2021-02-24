@@ -39,27 +39,23 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>C3. [Driver Arrival Sensing for Smart Car using WiFi Fine Time Measurements](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Beibei Wang and K. J. Ray. Liu.
-<i> 2020 Asia-Pacic Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)</i>. Auckland, New Zealand, Dec. <b>2020</b>.  <br>
+<i> 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC),</i> Auckland, New Zealand, Dec. <b>2020</b>.  <br>
 
-<b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
+<b>C4. [DOA estimation for low angle targets using time reversal in frequency domain model](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
+<br>
+<b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang.
+<i> 2018 IEEE Radar Conference (RadarConf18), </i> Oklahoma City, OK, Apr. <b>2018</b>.  <br>
+
+<b>C5. [Low angle direction of arrival estimation by time reversal](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.  <br>
+<i> 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> New Orleans, LA, Mar. <b>2017</b>.  <br>
 
-<b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
+<b>C6. [Design and implementation of a T/R module automatic test system,"](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.  <br>
+<i> 2016 CIE International Conference on Radar (RADAR),</i> Guangzhou, Oct. <b>2016</b>.  <br>
 
-<b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
-<br>
-<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.  <br>
-
-<b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
-<br>
-<b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal (IEEE IoT)</i>. <b>2021</b>.  <br>
 
 ## Patents
 <b>C1 [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/2021-MassiveMIMOPaper)</b> 
