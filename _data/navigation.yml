@@ -4,8 +4,9 @@ main:
     url: /publications/
     
   - title: "CV/简历"
+    url: /files/Xiaolu-cvV4.pdf
    # url: /cv/ 
-   url: /files/Xiaolu-cvV4.pdf
+   
     
   - title: "Projects"
     url: /projects/
