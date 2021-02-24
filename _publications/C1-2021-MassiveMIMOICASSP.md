@@ -5,7 +5,7 @@ permalink: /publications/C1-2021-MassiveMIMOICASSP
 date: 2021-02-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
- <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>ICASSP 2021, Toronto Canada.<i>. <br>
+ <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>ICASSP, Toronto Canada, 2021<i>. <br>
 [PDF](http://Xiaolu1263.github.io/files/ICASSP2021MassiveMIMO.pdf)
 
 ## Abstract <br>
