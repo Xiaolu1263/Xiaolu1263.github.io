@@ -50,6 +50,12 @@ I have authored 6 patents including US, Europe and China patents...
   :small_blue_diamond: Time Reversal turns multipath distortions to friend for target localization and tracking. <br />
 <b> 7. RF-based Indoor Tracking System </b> [Details](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking) <br /> 
   :small_blue_diamond: Calibration-free and Decimeter-accuracy Indoor Tracking Systems <br />
+  <b> 8. Signal Decompositions </b> [Details](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
+  :small_blue_diamond: Joint Decomposition of a singal over mutiple channels simutaneously <br />
+  <b> 9. Spectrum Analysis for DOA Estimations </b> [Details](https://xiaolu1263.github.io/publications/9SpectrumAnalysisDOA) <br /> 
+  :small_blue_diamond: DOA Estimations using different spectral analysis methods <br />
+  <b> 10. Automatic Test Systems </b> [Details](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br /> 
+  :small_blue_diamond: Automatic Test System Based on LabView <br />
 
 
  
