@@ -5,7 +5,7 @@ permalink: /publications/J2-2021-mmHRVPaper
 date: 2021-02-01
 venue: 'IEEE Internet of Things Journal, 2021'
 ---
- Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>IEEE Internet of Things Journal<i>.  <b>2021</b>. <br>
+ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/ViMo.pdf)
 
 ## Abstract <br>
