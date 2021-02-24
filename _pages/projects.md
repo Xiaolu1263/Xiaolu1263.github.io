@@ -24,10 +24,9 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
   * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improves the scalability greatly.
 
 ## Time Reversal (TR) for Tracking and Localization
-<b> 6. Time Reversal Based Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
-  * By using the Time Reversal theory, the so called detrimental multipath signal has been turned from enemy to friend for target localization and tracking. We then developed a decimeter-level accuracy localization and tracking algorithm which can work robustly regardless of the environments.
+<b> 6. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
+  * We developed an Time Reversal based localization methods which can guide the transmitting signal to focus on the target and thus improves the SNR up to 5dB and the localization accuracy.
 
 <b> 7. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
-  * Leveraging the naturally existing multipath signals in rich-scattering indoor scenarios, we developed an active and a passive Indoor Tracking Systems with decimeter-accuracy 
-  * The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell
+  * We establish a link between the autocorrelation function (ACF) of the physical layer [**CSI**](https://xiaolu1263.github.io/publications/1Wireless-Monitor) and the speed of a moving object. We then developed an active and a passive Indoor Tracking Systems with decimeter-accuracy. The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell.
 
