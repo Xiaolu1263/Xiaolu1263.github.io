@@ -17,5 +17,6 @@ permalink: /publications/3Wireless-Driver-Sensing
 <b> 3. Have you tested your system using practical measurements? </b>
   *  The system has been implemented and ported it into Linux OS for real-world validation in different parking lots and garages in Maryland, which indicates 92.5% accuracy with less than 1s error <br>
 
-For more information, please refer to our pape ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf))
+For more information, please refer to our pape ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf)) <br>
+
 <b> Key words: Driver's Arrival Time Sensing, WiFi-FTM, IEEE 802.11mc.</b>
