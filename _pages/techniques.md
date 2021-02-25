@@ -4,8 +4,7 @@ title: ":hammer_and_wrench: Techniques"
 permalink: /techniques/
 author_profile: true
 ---
-**Stay Hungry Stay Foolish !!!**
-<span style="color:blue;font-size:40px"> ## Stay Hungry Stay Foolish !!!</span>
+<span style="color:blue;font-size:40px;font-weight:bold"> Stay Hungry Stay Foolish !</span>
 ## Progaramming Experience
 1. Matlab
    * Have very good experience for Signal Processing, Data Analysis, DOA estimations, Spectrum Analysis, Convex Optimizations using [CVX](http://cvxr.com/cvx/), Machine Learning...
