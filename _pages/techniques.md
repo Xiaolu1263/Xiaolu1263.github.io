@@ -4,7 +4,7 @@ title: ":hammer_and_wrench: Techniques"
 permalink: /techniques/
 author_profile: true
 
-## Progaramming Backgrounds
+## Progaramming Experience
 1. Matlab
    * Have very good experience for Signal Processing, Data Analysis, DOA estimations, Spectrum Analysis, Convex Optimizations using [CVX](http://cvxr.com/cvx/), Machine Learning...
 2. Python
