@@ -16,7 +16,7 @@ author_profile: true
 
 ## Coursera Courser and Certificates
 **Machine Learning** by Stanford University, ([Certificate](https://xiaolu1263.github.io/files/MachineLearning.pdf)) <br>
-**Neural Networks and Deep Learning** by [DeepLearning.AI][(https://www.deeplearning.ai/), ([Certificate](https://xiaolu1263.github.io/files/DNN.pdf))
+**Neural Networks and Deep Learning** by [DeepLearning.AI](https://www.deeplearning.ai/), ([Certificate](https://xiaolu1263.github.io/files/DNN.pdf))
 
 ## Technique Backgrounds
 Machine/DNN learning, Signal Processing, AI Techniques for Wireless Sensing, Radar, mmWave, 5G Communications, Massive MIMO, 
