@@ -14,7 +14,7 @@ author_profile: true
 4. Liunux bash (Sheel script)
    * Beginners to build simple script to talk with the device and set the experiment system to verify our algorithms 
 
-## Coursera Courser and Certificates
+## Online Courses and Certificates
 **Machine Learning** by Stanford University, ([Certificate](https://xiaolu1263.github.io/files/MachineLearning.pdf)) <br>
 **Neural Networks and Deep Learning** by [DeepLearning.AI](https://www.deeplearning.ai/), ([Certificate](https://xiaolu1263.github.io/files/DNN.pdf))
 
