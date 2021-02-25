@@ -3,6 +3,7 @@
 title: ":hammer_and_wrench: Techniques"
 permalink: /techniques/
 author_profile: true
+---
 
 ## Progaramming Experience
 1. Matlab
