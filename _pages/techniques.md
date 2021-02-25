@@ -12,7 +12,7 @@ author_profile: true
    * Focused on DNN architecture for real problems such as error compensation in localization and tracking problems. adaptive sensing in dynamic environments...
 3. G-LabView
    * Very intuitively G language for instrument control
-4. Liunux bash (Sheel script)
+4. Liunux bash (shell script)
    * Beginners to build simple script to talk with the device and set the experiment system to verify our algorithms 
 
 ## Online Courses and Certificates
