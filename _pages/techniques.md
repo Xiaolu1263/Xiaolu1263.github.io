@@ -15,7 +15,8 @@ author_profile: true
    * Beginners to build simple script to talk with the device and set the experiment system to verify our algorithms 
 
 ## Coursera Courser and Certificates
-
+**Machine Learning** by Stanford University, [Certificate](https://Xiaolu1263.github.io/files)
+**Neural Networks and Deep Learning** by [DeepLearning.AI][(https://www.deeplearning.ai/), [Certificate]()
 ## Technique Backgrounds
 Machine/DNN learning, Signal Processing, AI Techniques for Wireless Sensing, Radar, mmWave, 5G Communications, Massive MIMO, 
 Advanced driver-assistance Systems (ADAS)
