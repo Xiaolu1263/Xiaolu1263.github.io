@@ -38,16 +38,3 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
  
 <b> 10. Automatic Test Systems </b> [see more](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
   * Automatic Test System Based on LabView <br />
-
-<style>
-ul.a {
-  list-style-type: disc;
-}
-</style>
-<b>This text is bold</b>
-<ul class="a">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ul>
-
