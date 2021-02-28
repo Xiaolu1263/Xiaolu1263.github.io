@@ -46,7 +46,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
  <ol style="font-weight: bold;">  
  <div class="a"> 1. the first order of </div>
    <ul class="b">
-      <li>Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5</li>
+      <li>Windows is for test too V6 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5</li>
       <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
       <li>Linux users can use SSH userid@ourserver.com port 22</li>
       <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
