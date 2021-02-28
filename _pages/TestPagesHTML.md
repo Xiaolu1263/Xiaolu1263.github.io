@@ -10,25 +10,30 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
 ## AI Techniques for Wireless Sensing <br/>
-<ol style="font-weight: bold;">  
-<div class="a"> 1. Device-free Wireless Monitoring System [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) </div>
+<ol>  
+<div class="a"> <b>1. Device-free Wireless Monitoring System </b> <a href="https://xiaolu1263.github.io/publications/1Wireless-Monitor">see more </a> </div>
   <ul class="b">
-     <li> We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). </li>
+     <li> We created the first-of-its-kind device-free motion sensing system which was commercialized by <a href="https://www.originwirelessai.com/">Origin Wireless AI Inc. </a>  and won the <a href="https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx">CES 2020 Innovation Award </a> [](). In partnership with <a href="https://www.belkin.com/us/">Belkin </a>, it has been deployed over 150 countries worldwide as <a href="https://www.linksys.com/us/linksys-aware/">LinkSysAware </a>. </li>
+  </ul>
+</ol>
+
+<ol>  
+<div class="a"> <b>2. Wireless Vital Signs Detection System </b> <a href="https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign">see more </a> </div>
+  <ul class="b">
+     <li> We developed an accurate Sleep Monitoring System and commercialized it as Origin Health for Remote Patient Monitoring by <a href="https://www.originwirelessai.com/">Origin Wireless AI Inc. </a>, which won the <a href="https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx">CES 2021 Best of Innovation Award</a>. </li>
   </ul>
 </ol>
 
 
+<ol>  
+<div class="a"> <b>3. Wireless Driver Arrival Sensing for Smart Car </b> <a href="https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing">see more </a> </div>
+  <ul class="b">
+     <li> We developed an accurate Sleep Monitoring System and commercialized it as Origin Health for Remote Patient Monitoring by <a href="https://www.originwirelessai.com/">Origin Wireless AI Inc. </a>, which won the <a href="https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx">CES 2021 Best of Innovation Award</a>. </li>
+  </ul>
+</ol>
 
 
-
-
-<b> 1. Device-free Wireless Monitoring System </b> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br/>
-  * We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). <br/>
- 
-<b> 2. Wireless Vital Signs Detection System </b> [see more](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign)
-  * We developed an accurate Sleep Monitoring System and commercialized it as Origin Health for Remote Patient Monitoring by [Origin Wireless AI Inc.](https://www.originwirelessai.com/), which won the [CES 2021 Best of Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2021/Best-Of/O/Origin-Health-Remote-Patient-Monitoring.aspx).
-
-<b> 3. Wireless Driver Arrival Sensing for Smart Car </b> [see more](https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing)
+<b> 3. Wireless Driver Arrival Sensing for Smart Car </b> [see more]()
   * We designed a Driver's Arrival Time Sensing System, which makes the car more smart in multiple-service management than the existing driver's presence sensing only system. Real-world tests show 92.5% accuracy with less than 1s error. ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf))
 
 ## mmWave Systems
