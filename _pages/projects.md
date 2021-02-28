@@ -41,19 +41,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 
 <style>
 ul.a {
-  list-style-type: circle;
-}
-
-ul.b {
-  list-style-type: square;
-}
-
-ol.c {
-  list-style-type: upper-roman;
-}
-
-ol.d {
-  list-style-type: lower-alpha;
+  list-style-type: disc;
 }
 </style>
 <ol>
