@@ -44,14 +44,10 @@ ul.a {
   list-style-type: disc;
 }
 </style>
-<style> ol { margin-left:0px;} </style>
-
-<ol style="font-weight: bold;">
- <li>Coffee 
-  <ul class="a">
+<b>This text is bold</b>
+<ul class="a">
   <li>Coffee</li>
   <li>Tea</li>
   <li>Coca Cola</li>
 </ul>
-</li>
-</ol>
+
