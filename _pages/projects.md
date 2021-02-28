@@ -23,7 +23,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <b> 5. 5G Massive MIMO for Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)
   * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improves the scalability greatly. ([PDF](https://xiaolu1263.github.io/files/MassiveMIMO.pdf)）
  
- <b> 6. Joint Signal Decompositions over Multiple Channels</b> [Details](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
+ <b> 6. Joint Signal Decompositions over Multiple Channels</b> [see more](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
   * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as [EEG data](https://en.wikipedia.org/wiki/Electroencephalography) are routinely acquired owing to the development of sensor array techniques.
 
 ## Time Reversal (TR) for Tracking and Localization
@@ -33,9 +33,9 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <b> 8. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
   * We establish a link between the autocorrelation function (ACF) of the physical layer [**CSI**](https://xiaolu1263.github.io/publications/1Wireless-Monitor) and the speed of a moving object. We then developed an active and a passive Indoor Tracking Systems with decimeter-accuracy. The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell.
 
-<b> 9. Spectrum Analysis for DOA Estimations </b> [Details](https://xiaolu1263.github.io/publications/9SpectrumAnalysisDOA) <br /> 
+<b> 9. Spectrum Analysis for DOA Estimations </b> [see more](https://xiaolu1263.github.io/publications/9SpectrumAnalysisDOA) <br /> 
   * DOA Estimations using different spectral analysis methods <br />
  
-<b> 10. Automatic Test Systems </b> [Details](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
+<b> 10. Automatic Test Systems </b> [see more](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
   * Automatic Test System Based on LabView <br />
 
