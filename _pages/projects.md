@@ -41,11 +41,11 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 
 
 <style> div.a { line-height: 80%;} </style> 
-<style> ol {margin:0;} </style> 
+<style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
 <div class="a">
  <ol style="font-weight: bold;">  
-  1. the first order of 
+ 1. the first order of 
    <ul class="b">
       <li>Windows is for test too V4</li>
       <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
