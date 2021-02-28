@@ -43,9 +43,8 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <style> div.a { line-height: 80%;} </style> 
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
-<div class="a">
  <ol style="font-weight: bold;">  
- 1. the first order of 
+ <div class="a"> 1. the first order of </div>
    <ul class="b">
       <li>Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5 Windows is for test too V5</li>
       <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
@@ -53,4 +52,4 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
       <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
    </ul>
  </ol>
-</div>
+
