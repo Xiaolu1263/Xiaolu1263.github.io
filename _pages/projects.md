@@ -24,7 +24,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
   * We developed a massive MIMO based localization and tracking system on the base of [Time Reversal techniques](http://video.cmsworldwide.com/SP17/SP17_RayLiu_Keynote_1080p.mp4), which can **benifit from the unavoidable multipath distortions** in our daily life and thus improves the scalability greatly. ([PDF](https://xiaolu1263.github.io/files/MassiveMIMO.pdf)）
  
  <b> 6. Joint Signal Decompositions over Multiple Channels</b> [Details](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
-  * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as EEG data are routinely acquired owing to the development of sensor array techniques.
+  * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as [EEG data](https://en.wikipedia.org/wiki/Electroencephalography) are routinely acquired owing to the development of sensor array techniques.
 
 ## Time Reversal (TR) for Tracking and Localization
 <b> 7. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
