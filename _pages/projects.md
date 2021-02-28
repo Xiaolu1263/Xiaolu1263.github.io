@@ -44,7 +44,7 @@ ul.a {
   list-style-type: disc;
 }
 </style>
-<ol style="font-weight: bold;">
+<ol style="font-weight: bold;" padding-left: 0;>
  <li>Coffee 
   <ul class="a">
   <li>Coffee</li>
