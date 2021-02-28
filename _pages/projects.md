@@ -27,9 +27,15 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
   * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as EEG data are routinely acquired owing to the development of sensor array techniques.
 
 ## Time Reversal (TR) for Tracking and Localization
-<b> 6. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
+<b> 7. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
   * We developed an Time Reversal based localization methods which can guide the transmitting signal to focus on the target and thus improves the SNR up to 5dB and the localization accuracy. ([PDF](https://xiaolu1263.github.io/files/TAES.pdf)）
 
-<b> 7. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
+<b> 8. RF-based Indoor Tracking System </b> [see more](https://xiaolu1263.github.io/publications/7RF-Indoor-Tracking)
   * We establish a link between the autocorrelation function (ACF) of the physical layer [**CSI**](https://xiaolu1263.github.io/publications/1Wireless-Monitor) and the speed of a moving object. We then developed an active and a passive Indoor Tracking Systems with decimeter-accuracy. The research facilitated three ongoing products including Cart-tracking in supermarkets, Fall-detector and Gait-recognition, which has been partly invited for demo to Apple, HP, Qualcomm, Verizon, Marvell.
+
+<b> 9. Spectrum Analysis for DOA Estimations </b> [Details](https://xiaolu1263.github.io/publications/9SpectrumAnalysisDOA) <br /> 
+  * DOA Estimations using different spectral analysis methods <br />
+ 
+<b> 10. Automatic Test Systems </b> [Details](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
+  * Automatic Test System Based on LabView <br />
 
