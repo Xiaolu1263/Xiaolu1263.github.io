@@ -39,16 +39,13 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <b> 10. Automatic Test Systems </b> [see more](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
   * Automatic Test System Based on LabView <br />
 
-<style>
-ul.a {list-style-type: circle;}
-ul.b {list-style-type: disc;}
-</style>  
+<style> ul.b {list-style-type: disc;} </style>  
 <ol style="font-weight: bold;">  
-<li> the first order of </li>
-     <ul class="b">
-        <li>Windows is for test too V4</li>
-        <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
-        <li>Linux users can use SSH userid@ourserver.com port 22</li>
-        <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
-    </ul>
+  <li> the first order of </li>
+  <ul class="b">
+     <li>Windows is for test too V4</li>
+     <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
+     <li>Linux users can use SSH userid@ourserver.com port 22</li>
+     <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
+  </ul>
 </ol>
