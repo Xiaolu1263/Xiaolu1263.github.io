@@ -40,7 +40,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
   * Automatic Test System Based on LabView <br />
 
 
-<style> div.a { line-height: 80%;} </style> 
+<style> div.a { line-height: 68%;} </style> 
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
  <ol style="font-weight: bold;">  
