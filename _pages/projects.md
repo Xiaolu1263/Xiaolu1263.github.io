@@ -45,7 +45,7 @@ ul.a {list-style-type: circle;}
 ul.b {list-style-type: disc;}
 </style>  
 <ol style="font-weight: bold;">  
-1. the first order of
+<li> the first order of </li>
     <ul class="b">
        <li>Windows is for test too</li>
        <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
