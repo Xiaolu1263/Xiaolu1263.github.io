@@ -39,15 +39,27 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <b> 10. Automatic Test Systems </b> [see more](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br />  
   * Automatic Test System Based on LabView <br />
 
+<style> ol {margin:0; padding:0; } </style> 
 <style>
-ul.a {
-  list-style-type: disc;
-}
-</style>
-<b>This text is bold</b>
-<ul class="a">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Coca Cola</li>
-</ul>
+ul.a {list-style-type: circle;}
+ul.b {list-style-type: disc;}
+</style>  
+<ol style="font-weight: bold;">  
+1. the first order of
+    <ul class="b">
+       <li>Windows users can use putty</li>
+       <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
+       <li>Linux users can use SSH userid@ourserver.com port 22</li>
+       <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
+   </ul>
+</ol>
+<ol style="font-weight: bold;">  
+2. the first order of
+    <ul class="b">
+       <li>Windows users can use putty</li>
+       <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
+       <li>Linux users can use SSH userid@ourserver.com port 22</li>
+       <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
+   </ul>
+</ol> 
 
