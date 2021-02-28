@@ -47,7 +47,7 @@ ul.b {list-style-type: disc;}
 <ol style="font-weight: bold;">  
 1. the first order of
     <ul class="b">
-       <li>Windows is for test</li>
+       <li>Windows is for test too</li>
        <li>Mac users can use the <a href="http://www.terminfo.org">Terminal.app</a></li>
        <li>Linux users can use SSH userid@ourserver.com port 22</li>
        <li>Or use an SFTP program like <a href="http://cyberduck.ch/">Cyberduck</a> just point it at       ourserver.com, port 22</li>
