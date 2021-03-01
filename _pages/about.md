@@ -12,10 +12,11 @@ img.two {
   height: 10%;
   width: 10%;
 }
+ </style>
 <img class="two"  style="float: right;" src="/images/UMDLogo.png">
 
 ---
-Xiaolu Zeng | 曾小路 | 
+Xiaolu Zeng | 曾小路v2 | 
 ======
 Postdoc Research Associate
 <br /> 
