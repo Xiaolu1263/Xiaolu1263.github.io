@@ -13,7 +13,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <ol>  
 <div class="a"> <b>1. Device-free Wireless Monitoring System </b> <a href="https://xiaolu1263.github.io/publications/1Wireless-Monitor">see more </a> </div>
   <ul class="b">
-     <li> We created the first-of-its-kind device-free motion sensing system which was commercialized by <a href="https://www.originwirelessai.com/">Origin Wireless AI Inc. </a>  and won the <a href="https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx">CES 2020 Innovation Award </a> [](). In partnership with <a href="https://www.belkin.com/us/">Belkin </a>, it has been deployed over 150 countries worldwide as <a href="https://www.linksys.com/us/linksys-aware/">LinkSysAware </a>. </li>
+     <li> We created the first-of-its-kind device-free motion sensing system which was commercialized by <a href="https://www.originwirelessai.com/">Origin Wireless AI Inc. </a>  and won the <a href="https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx">CES 2020 Innovation Award </a>. In partnership with <a href="https://www.belkin.com/us/">Belkin </a>, it has been deployed over 150 countries worldwide as <a href="https://www.linksys.com/us/linksys-aware/">LinkSysAware </a>. </li>
   </ul>
 </ol>
 
