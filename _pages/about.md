@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: right;" src="/images/UMDLogo.png">
+<img style="float: right;" src="/images/UMDLogo.png" width="500" height="600"> 
 ![Image 1](/images/UMDLogo.png) <br />
 ---
 
