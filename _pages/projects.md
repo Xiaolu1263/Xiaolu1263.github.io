@@ -10,8 +10,8 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
 ## AI Techniques for Wireless Sensing <br/>
-[//]: # <h2> 1. Device-free Wireless Monitoring System </h2> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br/>
-<div class="a"> <b>1. Device-free Wireless Monitoring System </b> <a href="https://xiaolu1263.github.io/publications/1Wireless-Monitor">see more </a> </div>
+[//]: # <b> 1. Device-free Wireless Monitoring System </b> [see more](https://xiaolu1263.github.io/publications/1Wireless-Monitor) <br/>
+<div class="a"> <h2>1. Device-free Wireless Monitoring System </h2> <a href="https://xiaolu1263.github.io/publications/1Wireless-Monitor">see more </a> </div>
   * We created the first-of-its-kind device-free motion sensing system which was commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) and won the [CES 2020 Innovation Award](https://www.ces.tech/Innovation-Awards/Honorees/2020/Honorees/L/Linksys-Aware.aspx). In partnership with [Belkin](https://www.belkin.com/us/), it has been deployed over 150 countries worldwide as [LinkSysAware](https://www.linksys.com/us/linksys-aware/). <br/>
  
 [//]: # <b> 2. Wireless Vital Signs Detection System </b> [see more](https://xiaolu1263.github.io/publications/2Wireless-Vital-Sign)
