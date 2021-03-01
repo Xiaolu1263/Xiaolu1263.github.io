@@ -18,11 +18,11 @@ img.two {
 
 Xiaolu Zeng | 曾小路 | v3
 ======
-Postdoc Research Associate
+<b>  Postdoc Research Associate <b> 
 <br /> 
  [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/)
  <br /> 
- Principal Data Scientist
+ <b>  Principal Data Scientist <b> 
   <br /> 
  [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
  
