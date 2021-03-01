@@ -13,7 +13,8 @@ img.two {
   width: 20%;
 }
  </style>
-<img class="two"  style="float: right;" src="/images/UMDLogo.png">
+ <style> div.a {line-height: 68%; margin-top: -50px;} </style> 
+<div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
 ---
 
 Xiaolu Zeng | 曾小路v2 | 
