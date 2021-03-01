@@ -9,9 +9,9 @@ redirect_from:
 ---
 Xiaolu Zeng | 曾小路 
 ======
-Postdoc Research Associate  <br> 
+**Postdoc Research Associate**  <br> 
 [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/) <br> 
-<b>  Principal Data Scientist <b> <br> 
+**Principal Data Scientist** <br> 
 [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
  
  :man_office_worker: Biography
