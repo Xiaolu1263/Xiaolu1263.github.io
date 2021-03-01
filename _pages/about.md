@@ -17,7 +17,7 @@ img.two {
 <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
 ---
 
-Xiaolu Zeng | 曾小路v2 | 
+Xiaolu Zeng | 曾小路 | 
 ======
 Postdoc Research Associate
 <br /> 
