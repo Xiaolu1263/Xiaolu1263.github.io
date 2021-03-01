@@ -7,7 +7,7 @@ author_profile: true
 We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b> together with our ***AI Techniques, Signal Process Methods, Radar Techniques, 5G Communication Skills, Massive MIMO Knowledge, mmWave Studies...*** to make your life easier and convenient, <b> by your control of course </b>. Know more about [Wireless AI for wireless sensing and localization using ambient radio signals](https://www.originwirelessai.com/)...
 
 <style> div.a {line-height: 68%; margin-bottom: -10px;} </style> 
-<style> div.b {line-height: 68%; margin-top: -10px;} </style> 
+<style> div.b {line-height: 68%; margin-top: -30px;} </style> 
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
 ## AI Techniques for Wireless Sensing <br/>
@@ -23,7 +23,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <div class="a"> <b>3. Wireless Driver Arrival Sensing for Smart Car </b> <a href="https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing">see more </a> </div>
   * We designed a Driver's Arrival Time Sensing System, which makes the car more smart in multiple-service management than the existing driver's presence sensing only system. Real-world tests show 92.5% accuracy with less than 1s error. ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf)) <br/>
 
-<div class="b"> <h2> mmWave Systems Design </h2> </div>
+<div class="b"> <h2> mmWave Systems Study </h2> </div>
 [//]: # <b> 4. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
 <div class="a"> <b>4. mmWave-Based Vital Signs Monitoring </b> <a href="https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign">see more </a> </div>
   * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... ([PDF](https://xiaolu1263.github.io/files/ViMo.pdf)） <br/>
