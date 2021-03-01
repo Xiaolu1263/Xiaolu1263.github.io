@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="images/UMDLogo.ico" /> 
+</head>
 Xiaolu Zeng | 曾小路
 ======
 Postdoc Research Associate
