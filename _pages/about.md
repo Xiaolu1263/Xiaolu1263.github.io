@@ -7,11 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+img.two {
+  height: 10%;
+  width: 10%;
+}
+<img class="two"  style="float: right;" src="/images/UMDLogo.png">
 
-<img style="float: right;" src="/images/UMDLogo.png" width="500" height="600"> 
-![Image 1](/images/UMDLogo.png) <br />
 ---
-
 Xiaolu Zeng | 曾小路 | 
 ======
 Postdoc Research Associate
