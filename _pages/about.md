@@ -9,8 +9,8 @@ redirect_from:
 ---
 <style>
 img.two {
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 20%;
 }
  </style>
 <img class="two"  style="float: right;" src="/images/UMDLogo.png">
