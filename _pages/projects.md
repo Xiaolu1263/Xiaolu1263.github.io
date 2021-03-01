@@ -6,7 +6,7 @@ author_profile: true
 ---
 We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b> together with our ***AI Techniques, Signal Process Methods, Radar Techniques, 5G Communication Skills, Massive MIMO Knowledge, mmWave Studies...*** to make your life easier and convenient, <b> by your control of course </b>. Know more about [Wireless AI for wireless sensing and localization using ambient radio signals](https://www.originwirelessai.com/)...
 
-<style> div.a {line-height: 68%;} </style> 
+<style> div.a {line-height: 68%; margin-bottom: -10px;} </style> 
 <style> ol {margin:0; padding:0;} </style> 
 <style> ul.b {list-style-type: disc;} </style>  
 ## AI Techniques for Wireless Sensing <br/>
