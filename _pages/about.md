@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Image 1](https://Xiaolu1263.github.io//files/UMDLog.png)  <br />
+<img style="float: right;" src="/images/UMDLogo.png">
+![Image 1](/images/UMDLogo.png) <br />
 Xiaolu Zeng | 曾小路 | 
 ======
 Postdoc Research Associate
