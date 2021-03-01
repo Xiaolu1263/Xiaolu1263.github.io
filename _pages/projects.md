@@ -21,7 +21,6 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 [//]: # <b> 3. Wireless Driver Arrival Sensing for Smart Car </b> [see more](https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing)
 <div class="a"> <b>3. Wireless Driver Arrival Sensing for Smart Car </b> <a href="https://xiaolu1263.github.io/publications/3Wireless-Driver-Sensing">see more </a> </div>
   * We designed a Driver's Arrival Time Sensing System, which makes the car more smart in multiple-service management than the existing driver's presence sensing only system. Real-world tests show 92.5% accuracy with less than 1s error. ([PDF](https://xiaolu1263.github.io/files/DriverSensing.pdf))
-
 ## mmWave Systems
 [//]: # <b> 4. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
 <div class="a"> <b>4. mmWave-Based Vital Signs Monitoring </b> <a href="https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign">see more </a> </div>
@@ -34,7 +33,6 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
  [//]: # <b> 6. Joint Signal Decompositions over Multiple Channels</b> [see more](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
  <div class="a"> <b>6. Joint Signal Decompositions over Multiple Channels </b> <a href="https://xiaolu1263.github.io/publications/10SMVMD">see more </a> </div>
   * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as [EEG data](https://en.wikipedia.org/wiki/Electroencephalography) are routinely acquired owing to the development of sensor array techniques.
-
 ## Time Reversal (TR) for Tracking and Localization
 [//]: # <b> 7. Time Reversal Based Localization </b> [see more](https://xiaolu1263.github.io/publications/6TRLocalization)
 <div class="a"> <b>7. Time Reversal Based Localization </b> <a href="https://xiaolu1263.github.io/publications/6TRLocalization">see more </a> </div>
