@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/1Wireless-Monitor
 
 ---
-<style> div.a { line-height: 68%;} </style> 
+<style> div.a { line-height: 68%; margin-bottom: -10px;} </style> 
 
 ## Abstract
 [//]: # <b> 1. How can we bridge the object motion with the wireless signal? </b> <br>
