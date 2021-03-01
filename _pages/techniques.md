@@ -4,18 +4,23 @@ title: ":hammer_and_wrench: Techniques"
 permalink: /techniques/
 author_profile: true
 ---
+<style> div.a {line-height: 68%; margin-bottom: -10px;} </style> 
 <span style="color:blue;font-size:40px;font-weight:bold"> Stay Hungry Stay Foolish !</span>
 ## Progaramming Experience
-<b> 1. Matlab </b> <br>
+[//]: # <b> 1. Matlab </b> <br>
+<div class="a"> <b>1. Matlab  </b> </div>
   * Have very good experience for Signal Processing, Data Analysis, DOA estimations, Spectrum Analysis, Convex Optimizations using [CVX](http://cvxr.com/cvx/), Machine Learning... <br>
 
-<b> 2. Python </b> <br>
+[//]: # <b> 2. Python </b> <br>
+<div class="a"> <b>2. Python  </b> </div>
   * Focused on DNN architecture for real problems such as error compensation in localization and tracking problems. adaptive sensing in dynamic environments... <br>
 
-<b> 3. G-LabView </b> <br>
+[//]: # <b> 3. G-LabView </b> <br>
+<div class="a"> <b>3. G-LabView  </b> </div>
   * Very intuitively G language for instrument control <br>
 
-<b> 4. Liunux bash (shell script) </b> <br>
+[//]: # <b> 4. Liunux bash (shell script) </b> <br>
+<div class="a"> <b>4. Liunux bash (shell script)  </b> </div>
   * Beginners to build simple script to talk with the device and set the experiment system to verify our algorithms  <br>
 
 ## Online Courses and Certificates
