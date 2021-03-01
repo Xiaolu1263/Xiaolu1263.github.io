@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xiaolu Zeng | 曾小路 | V2
+Xiaolu Zeng | 曾小路 
 ======
-<b>  Postdoc Research Associate <b> <br> 
+Postdoc Research Associate  <br> 
 [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/) <br> 
 <b>  Principal Data Scientist <b> <br> 
 [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
