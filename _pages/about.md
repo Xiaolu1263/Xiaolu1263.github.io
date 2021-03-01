@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style> img.two {height: 20%;width: 20%;} </style>
+<style> div.a {line-height: 68%; margin-top: -50px;} </style> 
+<div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
 Xiaolu Zeng | 曾小路 
 ======
 **Postdoc Research Associate**  <br> 
