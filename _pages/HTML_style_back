@@ -30,3 +30,8 @@ img.two {
  </style>
  <style> div.a {line-height: 68%; margin-top: -50px;} </style> 
 <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
+
+<head>
+  <title>Title of the document</title>
+  <link rel="shortcut icon" href="/images/UMDLogo.pngo">
+</head>
