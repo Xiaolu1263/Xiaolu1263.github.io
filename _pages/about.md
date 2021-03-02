@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<head>
+  <title>Title of the document</title>
+  <link rel="shortcut icon" href="/images/UMDLogo.pngo">
+</head>
 <style> img.two {height: 20%;width: 20%; z-index:1;} </style>
 <style> div.a {line-height: 68%; margin-top: -150px;}  div.b {line-height: 68%; margin-top: +10px;}  </style> 
 [//]: # <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
