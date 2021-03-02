@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 <style> img.two {height: 20%;width: 20%;} </style>
-<style> div.a {line-height: 68%; margin-top: -50px;} </style> 
+<style> div.a {line-height: 68%; margin-top: -50px;}  div.b {line-height: 68%; margin-top: 20px;}  </style> 
 <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
-
-Xiaolu Zeng | 曾小路 
+<div class="b"> <h2> Xiaolu Zeng | 曾小路 </h2> </div>
 ======
 **Postdoc Research Associate**  <br> 
 [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/) <br> 
