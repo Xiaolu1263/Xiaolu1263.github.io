@@ -15,7 +15,7 @@ main:
   - title: "Techniques"
     url: /techniques/
 
-  - title: ![](/images/UMDLog.png) 
+  - title: <img style="float: right;" src="/images/UMDLog.png">
     url: 
  # - title: "Talks"
  #    url: /talks/    
