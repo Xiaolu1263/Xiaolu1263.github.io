@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <style> img.two {height: 20%;width: 20%; z-index:1;} </style>
-<style> div.a {line-height: 68%; margin-top: -80px;}  div.b {line-height: 68%; margin-top: +10px;}  </style> 
+<style> div.a {line-height: 68%; margin-top: -100px;}  div.b {line-height: 68%; margin-top: +10px;}  </style> 
 <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div>
 
 <div class="b"> <h1> Xiaolu Zeng | 曾小路 V0 </h1> </div>
