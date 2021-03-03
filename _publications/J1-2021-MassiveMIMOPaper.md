@@ -4,11 +4,7 @@ collection: publications
 permalink: /publications/J1-2021-MassiveMIMOPaper
 date: 2021-02-01
 venue: 'IEEE Internet of Things Journal'
----
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<button style="font-size:24px" color:red">PDF <i class="fa fa-file-pdf-o"></i></button>
-                                                                         
+---                                                                    
  <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) 
 
