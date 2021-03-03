@@ -14,7 +14,7 @@ redirect_from:
 <div class="b"> <h1> Xiaolu Zeng | 曾小路 </h1> </div>
 **Postdoc Research Associate**  <br> 
 [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/) <br> 
-**Principal Data Scientist** <br> 
+**Principal Scientist** <br> 
 [Origin Wireless AI Inc.](https://www.originwirelessai.com/)
  
  :man_office_worker: Biography
