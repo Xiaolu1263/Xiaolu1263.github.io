@@ -35,7 +35,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
  
  [//]: # <b> 6. Joint Signal Decompositions over Multiple Channels</b> [see more](https://xiaolu1263.github.io/publications/10SMVMD) <br /> 
  <div class="a"> <b>6. Joint Signal Decompositions over Multiple Channels </b> <a href="https://xiaolu1263.github.io/publications/10SMVMD">see more </a> </div>
-  * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simutaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as [EEG data](https://en.wikipedia.org/wiki/Electroencephalography) are routinely acquired owing to the development of sensor array techniques. <br/>
+  * We developed a singal decomposition method which can extract the intrinsic signal components over multiple channels simultaneously while does not need the prior information about the number of the signal components. It can be widely applied becasue multiple channel data such as [EEG data](https://en.wikipedia.org/wiki/Electroencephalography) are routinely acquired owing to the development of sensor array techniques. <br/>
 
 [//]: # ## Time Reversal (TR) for Tracking and Localization
 <div class="b"> <h2> Time Reversal (TR) for Tracking and Localization </h2> </div>
