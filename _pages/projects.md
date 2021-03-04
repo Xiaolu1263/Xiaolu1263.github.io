@@ -54,10 +54,3 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 [//]: # <b> 10. Automatic Test Systems </b> [see more](https://xiaolu1263.github.io/publications/8TRTest-LabView) <br /> 
 <div class="a"> <b>10. Automatic Test Systems</b> <a href="https://xiaolu1263.github.io/publications/8TRTest-LabView">see more </a> </div>
   * Automatic Test System Based on LabView <br />
-
-<head>
-<title>Font Awesome Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<button style="font-size:24px"><i class="fa fa-file-pdf-o"></i> PDF</button>
