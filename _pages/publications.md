@@ -8,13 +8,17 @@ author_profile: true
 <b>J1. [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/J1-2021-MassiveMIMOPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>. [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
+<i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
+[![button](http://Xiaolu1263.github.io/images/PDFDownloadV3.png)](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BibtextV3.png)](http://Xiaolu1263.github.io/files/J1TAESCite.txt){:target="_blank"} <br>
+
+[//]: # [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
 
 <b>J2. [mmHRV: Contactless Heart Rate Variability Monitoring using Millimeter-Wave Radio](http://Xiaolu1263.github.io/publications/J2-2021-mmHRVPaper)</b> 
 <br>
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
-<i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>. [PDF](http://Xiaolu1263.github.io/files/ViMo.pdf) <br>
-
+<i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
+[![button](http://Xiaolu1263.github.io/images/PDFDownloadV3.png)](http://Xiaolu1263.github.io/files/ViMo.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BibtextV3.png)](http://Xiaolu1263.github.io/files/J1TAESCite.txt){:target="_blank"} <br>
+[PDF](http://Xiaolu1263.github.io/files/ViMo.pdf) <br>
 <b>J3. [Radio Frequency Based Direction Sensing Using Massive MIMO](http://Xiaolu1263.github.io/publications/J3-2020-DirectionSensorPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
