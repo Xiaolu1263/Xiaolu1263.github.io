@@ -6,7 +6,9 @@ date: 2018-04-18
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 ---
 <b>Xiaolu Zeng</b>, Minglei Yang, Baixiao Chen and Yunawei Jin, <i>IEEE Transactions on Aerospace and Electronic Systems **(IEEE TAES)**<i>,  <b>2018</b>. <br>
-[PDF](http://Xiaolu1263.github.io/files/TAES.pdf)
+[![button](http://Xiaolu1263.github.io/images/PDFDownloadV3.png)](http://Xiaolu1263.github.io/files/TAES.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BibtextV3.png)](http://Xiaolu1263.github.io/files/J1-AES-Cite.txt){:target="_blank"} <br>
+  
+[//]: # [PDF](http://Xiaolu1263.github.io/files/TAES.pdf)
 
 ## Abstract <br>
 In a low-angle target parameter estimation scenario, the backscattered signals from targets are often distorted due to clutter and multipath, which significantly degrades the performance of direction-ofarrival(DOA) estimation. In general, the backscattered multipaths are modeled as coherent signals with respect to the direct path. Decorrelation
