@@ -5,11 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 <b>J1. [Massive MIMO for High-Accuracy Target Localization and Tracking](http://Xiaolu1263.github.io/publications/J1-2021-MassiveMIMOPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
 [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/J4-MassiveMIMO-Cite.txt){:target="_blank"} <br>
+<button style="font-size:24px"><i class="fa fa-file-pdf-o"></i> PDF</button>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
 
