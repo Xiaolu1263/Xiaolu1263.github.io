@@ -5,7 +5,6 @@ permalink: /publications/J1-2021-MassiveMIMOPaper
 date: 2021-02-01
 venue: 'IEEE Internet of Things Journal'
 ---  
-<br>
 <head>
 <title>Font Awesome Icons</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,7 +16,7 @@ venue: 'IEEE Internet of Things Journal'
 .button5 {background-color: #33cc33;  border: 0px solid black; border-radius: 3px; color: white} /* Blue */
 </style>
 </head>
- <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
+<b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 <a href='http://Xiaolu1263.github.io/files/MassiveMIMO.pdf' target="_blank"><button class="button button2" style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a> <a href='http://Xiaolu1263.github.io/files/J4-MassiveMIMO-Cite.txt' target="_blank"><button class="button button3" style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
  
 [//]: # [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
