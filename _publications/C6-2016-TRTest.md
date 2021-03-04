@@ -6,6 +6,8 @@ date: 2018-06-11
 venue: '2016 CIE International Conference on Radar (RADAR)'
 ---
 <b>Xiaolu Zeng</b>, Baixiao Chen, Yinan Zhao, Minglei Yang, <i>CIE RADAR, Guangzhou, China, Oct. 2016 <i>. <br>
+[![button](http://Xiaolu1263.github.io/images/PDFDownloadV3.png)](http://Xiaolu1263.github.io/files/TRTest.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BibtextV3.png)](http://Xiaolu1263.github.io/files/C6-TRTest-Cite.txt){:target="_blank"} <br>
+  
 [PDF](http://Xiaolu1263.github.io/files/TRTest.pdf)
 
 ## Abstract <br>
