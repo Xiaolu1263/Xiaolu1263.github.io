@@ -22,25 +22,21 @@ author_profile: true
 <br>
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/ViMo.pdf){:target="_blank"} <br>
-
-[//]: # [PDF](http://Xiaolu1263.github.io/files/ViMo.pdf) <br>
+<a href='http://Xiaolu1263.github.io/files/ViMo.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a><br>
 
 <b>J3. [Radio Frequency Based Direction Sensing Using Massive MIMO](http://Xiaolu1263.github.io/publications/J3-2020-DirectionSensorPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Access </i>, <b>2020</b>. 
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/Access.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/J3-MassiveDirection-Cite.txt){:target="_blank"} <br>
-
-[//]: # [PDF](http://Xiaolu1263.github.io/files/Access.pdf) <br>
+<a href='http://Xiaolu1263.github.io/files/Access.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
+<a href='http://Xiaolu1263.github.io/files/J3-MassiveDirection-Cite.txt' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 
 <b>J4. [Estimation of Direction of Arrival by Time Reversal for Low-Angle Targets](http://Xiaolu1263.github.io/publications/J4-2018-TAESPaper)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Minglei Yang, Baixiao Chen and Yunawei Jin.
 <i> IEEE Transactions on Aerospace and Electronic Systems **(IEEE TAES)** </i>, <b>2018</b>. 
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/TAES.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/J1-AES-Cite.txt){:target="_blank"} <br>
-
-[PDF](http://Xiaolu1263.github.io/files/TAES.pdf) <br>
+<a href='http://Xiaolu1263.github.io/files/TAES.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
+<a href='http://Xiaolu1263.github.io/files/J1-AES-Cite.txt' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 
 ## Conference Papers
 <b>C1. [High Accuracy Tracking of Targets Using Massive MIMO](http://Xiaolu1263.github.io/publications/C1-2021-MassiveMIMOICASSP)</b> 
