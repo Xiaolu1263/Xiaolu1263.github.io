@@ -140,4 +140,40 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>P6. "Design and implementation of a T/R module automatic test system," </b> (China Patent No.: ZL201510566320.8 [P]) <br>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.button2 {background-color: #33cc33;  border: 0px solid black; border-radius: 3px; color: white} /* Blue */
+.button3 {background-color: #3366cc;  border: 0px solid black; border-radius: 3px; color: white} /* Blue */
+.button4 {background-color: #33cc33;  border: 0px solid black; border-radius: 3px; color: white} /* Blue */
+.button5 {background-color: #33cc33;  border: 0px solid black; border-radius: 3px; color: white} /* Blue */
+</style>
+</head>
+<body>
+
+<h1>fa fa-file-pdf-o</h1>
+
+<i class="fa fa-file-pdf-o"></i>
+<i class="fa fa-file-pdf-o" style="font-size:24px"></i>
+<i class="fa fa-file-pdf-o" style="font-size:36px"></i>
+<i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i>
+<br>
+
+<p>Used on a button:</p>
+<button style="font-size:24px">Button <i class="fa fa-file-pdf-o"></i></button>
+<button class="button button2" style="font-size:24px"><i class="fa fa-file-pdf-o"></i> PDF </button>
+<button class="button button3" style="font-size:24px"><i class="fa fa-book"></i> Bibtex </button>
+<button class="button button4" style="font-size:24px"><i class="fa fa-video-camera"></i> Demo </button>
+<button class="button button5" style="font-size:24px"><i class="fa fa-link"></i> Link </button>
+<button class="button button5" style="font-size:24px"><i class="fa fa-file-powerpoint-o"></i> PPT </button>
+<p>Unicode:</p>
+<i style="font-size:24px" class="fa">&#xf1c1;</i>
+
+</body>
+</html> 
+
 
