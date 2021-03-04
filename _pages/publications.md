@@ -65,7 +65,7 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>C4. [DOA estimation for low angle targets using time reversal in frequency domain model](http://Xiaolu1263.github.io/publications/C4-2018-RadarConf)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang.
-<i> 2018 IEEE Radar Conference (RadarConf18), </i> Oklahoma City, OK, Apr. <b>2018</b>.  [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C5-RadarConf18-Cite.txt){:target="_blank"} <br>
+<i> 2018 IEEE Radar Conference (RadarConf18), </i> Oklahoma City, OK, Apr. <b>2018</b>. [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C5-RadarConf18-Cite.txt){:target="_blank"} <br>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf) <br>
 
@@ -79,8 +79,7 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>C6. [Design and implementation of a T/R module automatic test system](http://Xiaolu1263.github.io/publications/C6-2016-TRTest)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Baixiao Chen, Yinan Zhao, Minglei Yang.
-<i> 2016 CIE International Conference on Radar (RADAR),</i> Guangzhou, Oct. <b>2016</b>.  
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/TRTest.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C6-TRTest-Cite.txt){:target="_blank"} <br>
+<i> 2016 CIE International Conference on Radar (RADAR),</i> Guangzhou, Oct. <b>2016</b>. [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/TRTest.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C6-TRTest-Cite.txt){:target="_blank"} <br>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/TRTest.pdf) <br>
 
