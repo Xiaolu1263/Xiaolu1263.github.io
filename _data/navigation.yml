@@ -15,8 +15,8 @@ main:
   - title: "Techniques"
     url: /techniques/
 
-  - title: "Talks"
-    url: /_pages/TestButton.html
+ #  - title: "Talks"
+ #    url: /_pages/TestButton.html
 
  #  - title: "Teaching"
 #     url: /teaching/    
