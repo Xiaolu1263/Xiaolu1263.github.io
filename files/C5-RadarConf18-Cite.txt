@@ -1,0 +1,9 @@
+@INPROCEEDINGS{2018-Xiaolu-RadarConf-TRDOA,
+  author={X. {Zeng} and B. {Chen} and M. {Yang}},
+  booktitle={2018 IEEE Radar Conference (RadarConf18)}, 
+  title={DOA estimation for low angle targets using time reversal in frequency domain model}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={1323-1327},
+  doi={10.1109/RADAR.2018.8378755}}

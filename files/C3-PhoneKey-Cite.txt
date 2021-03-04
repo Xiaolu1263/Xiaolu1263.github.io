@@ -1,0 +1,9 @@
+@INPROCEEDINGS{2020-Xiaolu-APSIPA-DriverSensing,
+  author={X. {Zeng} and B. {Wang} and K. J. {Ray Liu}},
+  booktitle={2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}, 
+  title={Driver Arrival Sensing for Smart Car using WiFi Fine Time Measurements}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={41-45},
+  doi={}}

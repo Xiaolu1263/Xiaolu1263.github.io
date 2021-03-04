@@ -1,0 +1,9 @@
+@INPROCEEDINGS{2016-Xiaolu-CIE-TRTest,
+  author={X. {Zeng} and B. {Chen} and Y. {Zhao} and M. {Yang}},
+  booktitle={2016 CIE International Conference on Radar (RADAR)}, 
+  title={Design and implementation of a T/R module automatic test system}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/RADAR.2016.8059182}}

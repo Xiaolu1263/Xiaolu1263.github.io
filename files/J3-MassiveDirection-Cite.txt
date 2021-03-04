@@ -1,0 +1,9 @@
+@ARTICLE{2020-Xiaolu-Access-DirectionSensing,
+  author={X. {Zeng} and F. {Zhang} and B. {Wang} and K. J. R. {Liu}},
+  journal={IEEE Access}, 
+  title={Radio Frequency Based Direction Sensing Using Massive MIMO}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={26827-26838},
+  doi={10.1109/ACCESS.2020.2964525}}

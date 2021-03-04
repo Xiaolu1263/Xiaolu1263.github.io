@@ -1,0 +1,9 @@
+@ARTICLE{2021-Xiaolu-IoTJ-MassiveMIMO,
+  author={X. {Zeng} and F. {Zhang} and B. {Wang} and K. J. R. {Liu}},
+  journal={IEEE Internet of Things Journal}, 
+  title={Massive MIMO for High-Accuracy Target Localization and Tracking}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2021.3050720}}
