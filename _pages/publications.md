@@ -15,11 +15,8 @@ author_profile: true
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/J4-MassiveMIMO-Cite.txt){:target="_blank"} <br>
-<button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button>
 <a href='http://Xiaolu1263.github.io/files/MassiveMIMO.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
-<a href='http://Xiaolu1263.github.io/files/MassiveMIMO.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a>
-[//]: # [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
+<a href='http://Xiaolu1263.github.io/files/J4-MassiveMIMO-Cite.txt' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 
 <b>J2. [mmHRV: Contactless Heart Rate Variability Monitoring using Millimeter-Wave Radio](http://Xiaolu1263.github.io/publications/J2-2021-mmHRVPaper)</b> 
 <br>
