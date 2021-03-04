@@ -65,16 +65,14 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>C4. [DOA estimation for low angle targets using time reversal in frequency domain model](http://Xiaolu1263.github.io/publications/C4-2018-RadarConf)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang.
-<i> 2018 IEEE Radar Conference (RadarConf18), </i> Oklahoma City, OK, Apr. <b>2018</b>.  
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C5-RadarConf18-Cite.txt){:target="_blank"} <br>
+<i> 2018 IEEE Radar Conference (RadarConf18), </i> Oklahoma City, OK, Apr. <b>2018</b>.  [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C5-RadarConf18-Cite.txt){:target="_blank"} <br>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf) <br>
 
 <b>C5. [Low angle direction of arrival estimation by time reversal](http://Xiaolu1263.github.io/publications/C5-2017-TRDOAICASSP)</b> 
 <br>
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
-<i> 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> New Orleans, LA, Mar. <b>2017</b>. 
-[![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C4-AESIcassp-Cite.txt){:target="_blank"} <br>
+<i> 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> New Orleans, LA, Mar. <b>2017</b>. [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/C4-AESIcassp-Cite.txt){:target="_blank"} <br>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/2017ICASSP.pdf) <br>
 
