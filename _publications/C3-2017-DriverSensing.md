@@ -17,7 +17,7 @@ venue: '2020 Asia-Pacific Signal and Information Processing Association Annual S
 </style>
 </head>
 <b>Xiaolu Zeng</b>, Beibei Wang and K. J. Ray. Liu, <i>APSIPA ASC, Auckland, New Zealand, Dec. 2020<i>. <br>
-  <a href='http://Xiaolu1263.github.io/files/DriverSensing.pdf' target="_blank"><button class="button button2" style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a> <a href='http://Xiaolu1263.github.io/files/C3-PhoneKey-Cite.txt' target="_blank"><button class="button button3" style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
+  <a href='http://Xiaolu1263.github.io/files/DriverSensing.pdf' target="_blank"><button class="button button2" style="font-size:14px"><i class="fa fa-file-pdf-o"></i> PDF</button></a> <a href='http://Xiaolu1263.github.io/files/C3-PhoneKey-Cite.txt' target="_blank"><button class="button button3" style="font-size:14px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 
 ## Abstract <br>
 Driver arrival sensing which enables the car to detect an approaching driver has been playing an important role in the evolving smart car system. This paper presents a
