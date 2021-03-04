@@ -16,7 +16,7 @@ author_profile: true
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
 [![button](http://Xiaolu1263.github.io/images/BWPDFDownload.png)](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BWBibtext.png)](http://Xiaolu1263.github.io/files/J4-MassiveMIMO-Cite.txt){:target="_blank"} <br>
-<button style="font-size:24px"><i class="fa fa-file-pdf-o"></i> PDF</button>
+<button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button>
 
 [//]: # [PDF](http://Xiaolu1263.github.io/files/MassiveMIMO.pdf) <br>
 
