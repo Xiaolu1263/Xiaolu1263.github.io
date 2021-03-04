@@ -6,7 +6,9 @@ date: 2018-06-11
 venue: '2018 IEEE Radar Conference (RadarConf)'
 ---
 <b>Xiaolu Zeng</b>, Baixiao Chen, Minglei Yang., <i>RadarConf., Oklahoma City, OK, Apr. 2018<i>. <br>
-[PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf)
+ [![button](http://Xiaolu1263.github.io/images/PDFDownloadV3.png)](http://Xiaolu1263.github.io/files/RadarConf18.pdf){:target="_blank"} [![button](http://Xiaolu1263.github.io/images/BibtextV3.png)](http://Xiaolu1263.github.io/files/C5-RadarConf18-Cite.txt){:target="_blank"} <br>
+  
+[//]: # [PDF](http://Xiaolu1263.github.io/files/RadarConf18.pdf)
 
 ## Abstract <br>
 Multipath distortion has been a challenge problem for low angle target localization problem using very high frequency (VHF) radar. In particular, under complex terrain, part
