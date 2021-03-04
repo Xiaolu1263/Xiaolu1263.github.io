@@ -18,7 +18,7 @@ venue: 'IEEE Internet of Things Journal'
 </head>
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
 <b> Xiaolu Zeng </b>, Feng Zhang, Beibei Wang and K. J. Ray Liu, <i>IEEE Internet of Things Journal<i>,  <b>2021</b>. <br>
-<a href='http://Xiaolu1263.github.io/files/ViMo.pdf' target="_blank"><button class="button button2" style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a> <br>
+<a href='http://Xiaolu1263.github.io/files/ViMo.pdf' target="_blank"><button class="button button2" style="font-size:14px"><i class="fa fa-file-pdf-o"></i> PDF</button></a> <br>
  
 [//]: # [PDF](http://Xiaolu1263.github.io/files/ViMo.pdf)
 
