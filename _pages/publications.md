@@ -70,7 +70,7 @@ Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <b>Xiaolu Zeng</b>, Feng Zhang, Beibei Wang and K. J. Ray. Liu.
 <i> 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),</i> New Orleans, LA, Mar. <b>2017</b>. 
 <a href='http://Xiaolu1263.github.io/files/2017ICASSP.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
-<a href='http://Xiaolu1263.github.io/files/C4-AESIcassp-Cite' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
+<a href='http://Xiaolu1263.github.io/files/C4-AESIcassp-Cite.txt' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 
 <b>C6. [Design and implementation of a T/R module automatic test system](http://Xiaolu1263.github.io/publications/C6-2016-TRTest)</b> 
 <br>
