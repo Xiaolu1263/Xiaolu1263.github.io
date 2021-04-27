@@ -21,6 +21,6 @@ permalink: /publications/4mmWave-Based-Vital-Sign
 <div class="a"> <b>3. Have you tested your system using practical measurements? </b>  </div> 
   *  The research has been implemented by using off-the-shelf [TI 77GHz mmWave Radar](https://www.ti.com/tool/IWR1843BOOST) and [Qualcomm 60G mmWave Radar](https://www.qualcomm.com/products/qca9500) and part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/). It is being commercialized by [Origin Wireless AI Inc.](https://www.originwirelessai.com/) for Non-contact Vital Sign Monitoring.<br>
 
-For more details. please refer to our paper（[PDF](https://xiaolu1263.github.io/files/ViMo.pdf)）
+For more details. please refer to our paper（[PDF](https://xiaolu1263.github.io/files/2021-mmHRV.pdf)）
 
 <b> Key words: mmWave, Vital Sign Monitoring, Multiple, Beamforming.</b>
