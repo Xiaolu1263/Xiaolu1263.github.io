@@ -27,7 +27,7 @@ We do not need sensors, wearables but <b> only the exisiting WiFi deployment </b
 <div class="b"> <h2> mmWave Systems Study </h2> </div>
 [//]: # <b> 4. mmWave-Based Vital Signs Monitoring </b> [see more](https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign)
 <div class="a"> <b>4. mmWave-Based Vital Signs Monitoring </b> <a href="https://xiaolu1263.github.io/publications/4mmWave-Based-Vital-Sign">see more </a> </div>
-  * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... ([PDF](https://xiaolu1263.github.io/files/ViMo.pdf)） <br/>
+  * We developed a Millimeter Wave (mmWave) based Vital Sign Monitoring System which can accurately estimate the breathing rate, heart rate and heart rate viability (HRV) for multiple objects. Part of the system has been invited to demo for [Qualcomm](https://www.qualcomm.com/) and it is being commercialized... ([PDF](https://xiaolu1263.github.io/files/2021-mmHRV.pdf)） <br/>
 
 [//]: # <b> 5. 5G Massive MIMO for Localization and Tracking </b> [see more](https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization)
 <div class="a"> <b>5. 5G Massive MIMO for Localization and Tracking </b> <a href="https://xiaolu1263.github.io/publications/5MassiveMIMOLocalization">see more </a> </div>
