@@ -22,7 +22,8 @@ author_profile: true
 <br>
 Fengyu Wang, <b>Xiaolu Zeng</b>, Chenshu Wu, Beibei Wang and K. J. Ray. Liu.
 <i> IEEE Internet of Things Journal **(IEEE IoT)**</i>, <b>2021</b>.
-<a href='http://Xiaolu1263.github.io/files/2021-mmHRV.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a><br>
+<a href='http://Xiaolu1263.github.io/files/2021-mmHRV.pdf' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
+<a href='http://Xiaolu1263.github.io/files/J2-mmHRV-Cite.txt' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a><br>
 
 <b>J3. [Radio Frequency Based Direction Sensing Using Massive MIMO](http://Xiaolu1263.github.io/publications/J3-2020-DirectionSensorPaper)</b> 
 <br>
