@@ -1,9 +1,9 @@
-@ARTICLE{2020-Xiaolu-TAES,
-  author={X. {Zeng} and M. {Yang} and B. {Chen} and Y. {Jin}},
-  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
-  title={Estimation of Direction of Arrival by Time Reversal for Low-Angle Targets}, 
-  year={2018},
-  volume={54},
-  number={6},
-  pages={2675-2694},
-  doi={10.1109/TAES.2018.2828200}}
+@ARTICLE{2021-XL-mmHRV,
+  author={Wang, Fengyu and Zeng, Xiaolu and Wu, Chenshu and Wang, Beibei and Liu, K. J. Ray},
+  journal={IEEE Internet of Things Journal}, 
+  title={mmHRV: Contactless Heart Rate Variability Monitoring using Millimeter-Wave Radio}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2021.3075167}}
