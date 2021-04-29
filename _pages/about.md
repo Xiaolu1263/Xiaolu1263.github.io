@@ -9,13 +9,13 @@ redirect_from:
 ---
 <style> img.two {height: 20%;width: 20%; z-index:1;} </style>
 <style> div.a {line-height: 68%; margin-top: -50px;}  div.b {line-height: 68%; margin-top: -35px;}  </style> 
-<!---  [//]: # <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div> -->
+ [//]: # <div class="a"> <img class="two"  style="float: right;" src="/images/UMDLogo.png"> </div> 
 
 <div class="b"> <h1> Xiaolu Zeng | 曾小路 </h1> </div>
 **Postdoc Research Associate**  <br> 
 [Department of Electrical & Computer Engineering University of Maryland, College Park](https://www.umd.edu/) <br> 
-[//]: # **Principal Scientist** <br> 
-[//]: # [Origin Wireless AI Inc.](https://www.originwirelessai.com/) He is also the Principal Scientist at [Origin Wireless AI Inc.](https://www.originwirelessai.com/).
+<!---  [//]: # **Principal Scientist** <br> -->
+<!---  [//]: # [Origin Wireless AI Inc.](https://www.originwirelessai.com/) He is also the Principal Scientist at [Origin Wireless AI Inc.](https://www.originwirelessai.com/). -->
  
  :man_office_worker: Biography
 ======
